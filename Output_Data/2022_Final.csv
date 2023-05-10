@@ -1,0 +1,770 @@
+merged,name,lat,lon,Address,Municipality,Sale price
+" Cook Farm Rd, LaFayette, New York","Cook Farm Road, Town of LaFayette, Onondaga County, New York, 13078, United States",42.964589,-76.072914, Cook Farm Rd,LaFayette,10000
+"5867 Howell Rd, Summerhill, New York","5867, Howell Road, Chipman Corners, Town of Locke, Cayuga County, New York, 13092, United States",42.6310695,-76.35491388074736,5867 Howell Rd,Summerhill,16140
+"2859 Cold Springs Rd, Baldwinsville, New York","2859, Cold Springs Road, Town of Lysander, Onondaga County, New York, 13027, United States",43.1607553,-76.3087776,2859 Cold Springs Rd,Baldwinsville,228300
+"303 Smith Ave, Onondaga, New York","303, Smith Avenue, Nedrow, Town of Onondaga, Onondaga County, New York, 13120, United States",42.9742587,-76.1382676,303 Smith Ave,Onondaga,15000
+"843 O'Connor Rd, Scriba, New York","843, O Connor Road, South Scriba, Town of Scriba, Oswego County, New York, 13126, United States",43.4493045,-76.42857262135337,843 O'Connor Rd,Scriba,26000
+"3700 Chapman Rd, Georgetown, New York","3700, Chapman Road, Town of Georgetown, Madison County, New York, 13072, United States",42.7750743,-75.7561782,3700 Chapman Rd,Georgetown,60000
+" Wright Rd, Onondaga, New York","Wright Road, Kellys Corners, Town of Onondaga, Marcellus, Onondaga County, New York, 13031, United States",43.022036,-76.247938, Wright Rd,Onondaga,24000
+"7 Tallcot Ln, Skaneateles (village), New York","7, Tallcot Lane, Village of Skaneateles, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9381462,-76.4299854,7 Tallcot Ln,Skaneateles (village),2967043
+"1700 Chapin Road, Georgetown, New York","1700, Chapin Road, Town of Georgetown, Madison County, New York, 13072, United States",42.7948225,-75.7723857,1700 Chapin Road,Georgetown,34000
+"79 Castor Rd, Albion, New York","79, Castor Road, Town of Albion, Oswego County, New York, 13142, United States",43.507192629953465,-76.08559905032038,79 Castor Rd,Albion,56900
+" State Route 90, Ledyard, New York","State Route 90, Town of Genoa, Cayuga County, New York, 13081, United States",42.678297,-76.653167, State Route 90,Ledyard,50000
+" State Route 90, Ledyard, New York","State Route 90, Town of Genoa, Cayuga County, New York, 13081, United States",42.678297,-76.653167, State Route 90,Ledyard,710000
+" Steinway Dr, DeWitt, New York","Steinway Drive, Dewitt, Onondaga County, New York, 13078, United States",43.018565,-76.0840384, Steinway Dr,DeWitt,265000
+"310-12 Delaware St, Syracuse, New York","Delaware Street, Skunk City, City of Syracuse, Onondaga County, New York, 13204, United States",43.0393976,-76.1733275,310-12 Delaware St,Syracuse,285
+"101 Wood Ave, Syracuse, New York","101, Wood Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0258685,-76.146205,101 Wood Ave,Syracuse,66
+"317-19 Delaware St, Syracuse, New York","Delaware Street, Skunk City, City of Syracuse, Onondaga County, New York, 13204, United States",43.0393976,-76.1733275,317-19 Delaware St,Syracuse,58
+"250 Leon St, Syracuse, New York","250, Leon Street, University Hill, City of Syracuse, Onondaga County, New York, 13205, United States",43.0328872,-76.1435217,250 Leon St,Syracuse,48
+"205 Fifth St, Fulton, New York","205, Fifth Street, Village of Northville, Town of Northampton, Fulton County, New York, 12134, United States",43.22616465970204,-74.178731536114,205 Fifth St,Fulton,1000
+"538 Fire Lane 14, Springport, New York","538, Fire Lane 14, Cayuga Junction, Town of Springport, Cayuga County, New York, 13034, United States",42.87299,-76.704095,538 Fire Lane 14,Springport,20000
+" Paradise Rd, Palermo, New York","Paradise Road, Town of Palermo, Oswego County, New York, 13114, United States",43.401866,-76.231204, Paradise Rd,Palermo,30000
+" Paradise Rd, Palermo, New York","Paradise Road, Town of Palermo, Oswego County, New York, 13114, United States",43.401866,-76.231204, Paradise Rd,Palermo,22500
+"10185 Jordan Rd, Cato (town), New York","10185, Jordan Road, Town of Cato, Cayuga County, New York, 13080, United States",43.1105565,-76.49523022282608,10185 Jordan Rd,Cato (town),10
+"3849 Hallston Dr, Clay, New York","Hallston Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.1924639,-76.2455465,3849 Hallston Dr,Clay,50000
+"102 Second St, Fulton, New York","102, Second Street, Ward 4, City of Gloversville, Fulton County, New York, 12078, United States",43.04866957142857,-74.35760361224489,102 Second St,Fulton,3800
+" West Bay Rd, Sterling, New York","West Bay Road, Village of Fair Haven, Town of Sterling, Cayuga County, New York, 13064, United States",43.344186,-76.713953, West Bay Rd,Sterling,40000
+"7023 River Road, Aurelius, New York","7023, River Road, Town of Montezuma, Town of Aurelius, Cayuga County, New York, 13034, United States",42.9580767,-76.7369703,7023 River Road,Aurelius,50200
+"1373 Berry Rd, Fabius (town), New York","1373, Berry Road, Apulia, Town of Fabius, Onondaga County, New York, 13084, United States",42.8389156,-76.060479,1373 Berry Rd,Fabius (town),86000
+" Kasson Road, Onondaga, New York","Kasson Road, Fairmount, Town of Camillus, Marcellus, Onondaga County, New York, 13031, United States",43.0401414,-76.2744372, Kasson Road,Onondaga,25000
+" Jordan Rd, Cato (town), New York","Jordan Road, Village of Meridian, Town of Cato, Cayuga County, New York, 13033, United States",43.159009,-76.517838, Jordan Rd,Cato (town),3659
+" Beech Rd, Sennett, New York","Beech Road, Town of Sennett, Cayuga County, New York, United States",42.930134,-76.495078, Beech Rd,Sennett,48000
+"67 Jacobson Dr, Parish (town), New York","67, Jacobson Drive, Town of Parish, Albion, Oswego County, New York, 13131, United States",43.453887885829936,-76.11694717450973,67 Jacobson Dr,Parish (town),55000
+" Lake Forest, Minoa, New York","Lake Forest Drive, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.0692438,-76.0151675, Lake Forest,Minoa,509040
+"4253 Oran Delphi Rd, Pompey, New York","4253, Oran Delphi Road, Oran, Town of Manlius, Onondaga County, New York, 13104, United States",42.9771504,-75.9345222,4253 Oran Delphi Rd,Pompey,440000
+" West Lake Road, Cazenovia (town), New York","West Lake Road, Town of Cazenovia, Madison County, New York, 13035, United States",42.962779,-75.884468, West Lake Road,Cazenovia (town),55000
+"4474 Weller Hall Pl, Clay, New York","Weller Hall Place, Town of Clay, Onondaga County, New York, 13041, United States",43.1784843,-76.1844928,4474 Weller Hall Pl,Clay,474300
+"3352 Hickory Knoll Ln, Lysander, New York","3352, Hickory Knoll Lane, Radisson, Town of Lysander, Onondaga County, New York, 13027, United States",43.19646454548254,-76.28676805201304,3352 Hickory Knoll Ln,Lysander,537000
+"3352 Hickory Knoll Ln, Lysander, New York","3352, Hickory Knoll Lane, Radisson, Town of Lysander, Onondaga County, New York, 13027, United States",43.19646454548254,-76.28676805201304,3352 Hickory Knoll Ln,Lysander,40000
+" Otisco Valley Road, Spafford, New York","Otisco Valley Road, Heath Grove, Rice Grove, Amber, Town of Otisco, Onondaga County, New York, 13110, United States",42.831133,-76.233909, Otisco Valley Road,Spafford,5580
+"142 Dunning Ave, Auburn, New York","142, Dunning Avenue, City of Auburn, Scipio, Cayuga County, New York, 13021, United States",42.9183745,-76.58339457102565,142 Dunning Ave,Auburn,16000
+"1761 Center Rd, Scipio, New York","1761, Center Road, Scipio Center, Town of Scipio, Cayuga County, New York, 13147, United States",42.7825135,-76.6233915,1761 Center Rd,Scipio,133000
+"3762 Kennedy Rd, Scipio, New York","3762, Kennedy Road, Town of Moravia, Town of Scipio, Cayuga County, New York, 13118, United States",42.7676602,-76.4921638,3762 Kennedy Rd,Scipio,84000
+"2910 Slate Hill Rd, Marcellus (town), New York","2910, Slate Hill Road, Town of Marcellus, Onondaga County, New York, 13110, United States",42.9135411,-76.3018602,2910 Slate Hill Rd,Marcellus (town),84000
+" Wells Ave, North Syracuse, New York","Wells Avenue East, Village of North Syracuse, Town of Clay, Onondaga County, New York, 13212, United States",43.131936,-76.128925, Wells Ave,North Syracuse,2562
+" Wells Ave, North Syracuse, New York","Wells Avenue East, Village of North Syracuse, Town of Clay, Onondaga County, New York, 13212, United States",43.131936,-76.128925, Wells Ave,North Syracuse,4282
+" Tully Farms Rd, LaFayette, New York","Tully Farms Road, Town of LaFayette, Onondaga County, New York, 13084, United States",42.898868,-76.156824, Tully Farms Rd,LaFayette,150000
+"5854 Powder Horn Ln, Onondaga, New York","Powder Horn Lane, Town of Onondaga, Onondaga County, New York, 13078, United States",42.9850579,-76.1161856,5854 Powder Horn Ln,Onondaga,569000
+"10182 Jordan Rd, Cato (town), New York","10182, Jordan Road, Town of Cato, Cayuga County, New York, 13080, United States",43.109911,-76.494605,10182 Jordan Rd,Cato (town),25000
+"3879 Bonstead Rd, Clay, New York","3879, Bonstead Road, Three Rivers, Town of Clay, Onondaga County, New York, 13041, United States",43.211835,-76.2438393,3879 Bonstead Rd,Clay,50000
+"7764 Longbow Way, Lysander, New York","7764, Longbow Way, Town of Lysander, Onondaga County, New York, 13027, United States",43.14397758295173,-76.25906178184822,7764 Longbow Way,Lysander,130000
+" Whiting Rd, Van Buren, New York","Whiting Road, Town of Elbridge, Onondaga County, New York, 13112, United States",43.076976,-76.389958, Whiting Rd,Van Buren,993
+" Whiting Rd, Van Buren, New York","Whiting Road, Town of Elbridge, Onondaga County, New York, 13112, United States",43.076976,-76.389958, Whiting Rd,Van Buren,650
+"92 Phillips Rd, Granby, New York","92, Phillips Road, Town of Granby, Oswego County, New York, 13126, United States",43.3671115,-76.5028235,92 Phillips Rd,Granby,35000
+"92 Phillips Rd, Granby, New York","92, Phillips Road, Town of Granby, Oswego County, New York, 13126, United States",43.3671115,-76.5028235,92 Phillips Rd,Granby,35000
+"17 S Jefferson St, Mexico (village), New York","17, South Jefferson Street, Village of Mexico, Town of Mexico, Oswego County, New York, 13114, United States",43.45597050000001,-76.22990674349305,17 S Jefferson St,Mexico (village),500
+" West Lake Rd, Fleming, New York","West Lake Road, Melrose Park, Town of Fleming, Aurelius, Cayuga County, New York, 13021, United States",42.898882,-76.548924, West Lake Rd,Fleming,180000
+" Jane Ln, Cicero, New York","Jane Lane, Town of Cicero, Onondaga County, New York, 13039, United States",43.182154,-76.0816965, Jane Ln,Cicero,8221
+" Jane Ln, Cicero, New York","Jane Lane, Town of Cicero, Onondaga County, New York, 13039, United States",43.182154,-76.0816965, Jane Ln,Cicero,20
+" Brewerton Rd, Cicero, New York","Brewerton Road, Brewerton, Town of Cicero, Onondaga County, New York, 13039, United States",43.2332473,-76.139732, Brewerton Rd,Cicero,1989
+" Brewerton Rd, Cicero, New York","Brewerton Road, Brewerton, Town of Cicero, Onondaga County, New York, 13039, United States",43.2332473,-76.139732, Brewerton Rd,Cicero,110
+" Tuttle Rd, Cicero, New York","Tuttle Road, Town of Cicero, Onondaga County, New York, 13030, United States",43.1797982,-75.9916363, Tuttle Rd,Cicero,1259
+" Tuttle Rd, Cicero, New York","Tuttle Road, Town of Cicero, Onondaga County, New York, 13030, United States",43.1797982,-75.9916363, Tuttle Rd,Cicero,100
+"3864 Hallston Dr, Clay, New York","3864, Hallston Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.19185779591837,-76.24351095918367,3864 Hallston Dr,Clay,45000
+" State Route 31 Rr, Elbridge (town), New York","State Route 31, Village of Jordan, Town of Elbridge, Onondaga County, New York, 13080, United States",43.067474,-76.480715, State Route 31 Rr,Elbridge (town),4642
+" State Route 31 Rr, Elbridge (town), New York","State Route 31, Village of Jordan, Town of Elbridge, Onondaga County, New York, 13080, United States",43.067474,-76.480715, State Route 31 Rr,Elbridge (town),275
+" State Route 31 Rr, Elbridge (town), New York","State Route 31, Village of Jordan, Town of Elbridge, Onondaga County, New York, 13080, United States",43.067474,-76.480715, State Route 31 Rr,Elbridge (town),400
+" State Route 31 Rr, Elbridge (town), New York","State Route 31, Village of Jordan, Town of Elbridge, Onondaga County, New York, 13080, United States",43.067474,-76.480715, State Route 31 Rr,Elbridge (town),2847
+" Richmond Rd, Manlius (town), New York","Richmond Road East, Oot Park, Town of Manlius, Onondaga County, New York, 13057, United States",43.065947,-76.020311, Richmond Rd,Manlius (town),5744
+" Richmond Rd, Manlius (town), New York","Richmond Road East, Oot Park, Town of Manlius, Onondaga County, New York, 13057, United States",43.065947,-76.020311, Richmond Rd,Manlius (town),1497
+" Kirkville Rd, Manlius (town), New York","Kirkville Road, Town of Manlius, Onondaga County, New York, 13082, United States",43.0791507,-76.0285413, Kirkville Rd,Manlius (town),2700
+" Kirkville Rd, Manlius (town), New York","Kirkville Road, Town of Manlius, Onondaga County, New York, 13082, United States",43.0791507,-76.0285413, Kirkville Rd,Manlius (town),2145
+" Kirkville Rd, Manlius (town), New York","Kirkville Road, Town of Manlius, Onondaga County, New York, 13082, United States",43.0791507,-76.0285413, Kirkville Rd,Manlius (town),23500
+" Kirkville Rd, Manlius (town), New York","Kirkville Road, Town of Manlius, Onondaga County, New York, 13082, United States",43.0791507,-76.0285413, Kirkville Rd,Manlius (town),375000
+" Minoa Rd, Manlius (town), New York","Minoa Road, Town of Manlius, Onondaga County, New York, 13116, United States",43.059099,-75.99951, Minoa Rd,Manlius (town),2600
+" Minoa Rd, Manlius (town), New York","Minoa Road, Town of Manlius, Onondaga County, New York, 13116, United States",43.059099,-75.99951, Minoa Rd,Manlius (town),1666
+" Rockwell Rd, Onondaga, New York","Rockwell Road, Nedrow, Town of Onondaga, Onondaga County, New York, 13120, United States",42.976364,-76.136986, Rockwell Rd,Onondaga,6378
+" Rockwell Rd, Onondaga, New York","Rockwell Road, Nedrow, Town of Onondaga, Onondaga County, New York, 13120, United States",42.976364,-76.136986, Rockwell Rd,Onondaga,5000
+" Salina St, Onondaga, New York","Salina Street, Village of Liverpool, Town of Salina, Onondaga County, New York, 13088, United States",43.1020293,-76.2009062, Salina St,Onondaga,3620
+" Salina St, Onondaga, New York","Salina Street, Village of Liverpool, Town of Salina, Onondaga County, New York, 13088, United States",43.1020293,-76.2009062, Salina St,Onondaga,1600
+" Beef St, Onondaga, New York","Beef Street, Howlett Hill, Town of Onondaga, Marcellus, Onondaga County, New York, 13215, United States",42.999777,-76.276169, Beef St,Onondaga,1341
+" Beef St, Onondaga, New York","Beef Street, Howlett Hill, Town of Onondaga, Marcellus, Onondaga County, New York, 13215, United States",42.999777,-76.276169, Beef St,Onondaga,45
+"3847 Rockefeller Rd, Niles, New York","3847, Rockefeller Road, Austin, Village of Moravia, Town of Moravia, Cayuga County, New York, 13118, United States",42.8042085,-76.47879891520245,3847 Rockefeller Rd,Niles,1400000
+"9649 Kenzie Grace Path, Clay, New York","Kenzie Grace Path, Town of Clay, Onondaga County, New York, 13029, United States",43.2375233,-76.1654552,9649 Kenzie Grace Path,Clay,73000
+"68 Hardwicke Dr, Solvay, New York","68, Hardwicke Drive, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0481289,-76.2038886,68 Hardwicke Dr,Solvay,15000
+"68 Hardwicke Dr, Solvay, New York","68, Hardwicke Drive, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0481289,-76.2038886,68 Hardwicke Dr,Solvay,30000
+"317 Tuttle Ave, Canastota, New York","317, Tuttle Avenue, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.071754,-75.743676,317 Tuttle Ave,Canastota,25900
+"317 Tuttle Ave, Canastota, New York","317, Tuttle Avenue, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.071754,-75.743676,317 Tuttle Ave,Canastota,25000
+"143 A Liberty St, Oswego (city), New York","143 A, Liberty Street, City of Oswego, Oswego County, New York, 13126, United States",43.4518675,-76.521526,143 A Liberty St,Oswego (city),950
+"161 Liberty St, Oswego (city), New York","161, Liberty Street, City of Oswego, Oswego County, New York, 13126, United States",43.4505126,-76.5218217,161 Liberty St,Oswego (city),930
+" Rainbow Shores Rd, Sandy Creek (town), New York","Rainbow Shores Road, Rainbow Shores, Town of Richland, Oswego County, New York, 13142, United States",43.610048,-76.180327, Rainbow Shores Rd,Sandy Creek (town),1690
+" Rainbow Shores Rd, Sandy Creek (town), New York","Rainbow Shores Road, Rainbow Shores, Town of Richland, Oswego County, New York, 13142, United States",43.610048,-76.180327, Rainbow Shores Rd,Sandy Creek (town),71000
+" River Rd, Aurelius, New York","River Road, Town of Montezuma, Town of Aurelius, Cayuga County, New York, 13034, United States",42.953404,-76.734598, River Rd,Aurelius,60000
+"5684 Stockbridge Falls Road, Stockbridge, New York","5684, Stockbridge Falls Road, Siloam, Town of Stockbridge, Town of Smithfield, Madison County, New York, 13409, United States",42.956076,-75.6219825,5684 Stockbridge Falls Road,Stockbridge,50000
+"4580 Kingsley Rd, Otisco, New York","4580, Kingsley Road, Maple Grove, Town of Otisco, Onondaga County, New York, 13084, United States",42.8848698,-76.1996564,4580 Kingsley Rd,Otisco,175000
+" Tuttle Ave, Canastota, New York","Tuttle Avenue, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.073135,-75.744511, Tuttle Ave,Canastota,15000
+"4365 State Route 31, Clay, New York","4365, State Route 31, Euclid, Town of Clay, Onondaga County, New York, 13041, United States",43.1866348,-76.2118468,4365 State Route 31,Clay,75000
+"7780 Longbow Way, Lysander, New York","7780, Longbow Way, Town of Lysander, Onondaga County, New York, 13027, United States",43.143990885997134,-76.25877112390249,7780 Longbow Way,Lysander,130000
+"147 Giddings Trail, Lysander, New York","Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1722566,-76.3567221,147 Giddings Trail,Lysander,54000
+"208 Oakridge Terr, Salina, New York","208, Oakridge Terrace, The Meadows, Salina, Town of Salina, Onondaga County, New York, 13088, United States",43.103127150000006,-76.17768212101782,208 Oakridge Terr,Salina,270900
+"125 Nelson St, Syracuse, New York","125, Nelson Street, Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0465166,-76.176339,125 Nelson St,Syracuse,90
+"2510 Erieville Road, Nelson, New York","2510, Erieville Road, Erieville, Town of Nelson, Madison County, New York, 13061, United States",42.8490617,-75.7533035,2510 Erieville Road,Nelson,43500
+" Cross Rd, DeWitt, New York","Cross Road, Town of De Witt, Onondaga County, New York, 13224, United States",43.027914,-76.103675, Cross Rd,DeWitt,4577
+" Cross Rd, DeWitt, New York","Cross Road, Town of De Witt, Onondaga County, New York, 13224, United States",43.027914,-76.103675, Cross Rd,DeWitt,100
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,4249
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,3500
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,2400
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,1675
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,1355
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,1054
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,600
+" Maconi Ave, DeWitt, New York","Maconi Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.073129,-76.076228, Maconi Ave,DeWitt,600
+" Frederick St, DeWitt, New York","Frederick Street, Town of De Witt, Onondaga County, New York, 13057, United States",43.071153,-76.07593, Frederick St,DeWitt,3471
+" Frederick St, DeWitt, New York","Frederick Street, Town of De Witt, Onondaga County, New York, 13057, United States",43.071153,-76.07593, Frederick St,DeWitt,800
+" James St, DeWitt, New York","James Street, City of Syracuse, Onondaga County, New York, 13057, United States",43.0694046,-76.0944119, James St,DeWitt,2900
+" James St, DeWitt, New York","James Street, City of Syracuse, Onondaga County, New York, 13057, United States",43.0694046,-76.0944119, James St,DeWitt,1932
+" Tucker Ave, DeWitt, New York","Tucker Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.072566,-76.076606, Tucker Ave,DeWitt,1675
+" Tucker Ave, DeWitt, New York","Tucker Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.072566,-76.076606, Tucker Ave,DeWitt,600
+" Towpath W, Elbridge (town), New York","Towpath Road, Town of Elbridge, Onondaga County, New York, 13080, United States",43.072785,-76.434685, Towpath W,Elbridge (town),2800
+" Towpath W, Elbridge (town), New York","Towpath Road, Town of Elbridge, Onondaga County, New York, 13080, United States",43.072785,-76.434685, Towpath W,Elbridge (town),2200
+" Towpath W, Elbridge (town), New York","Towpath Road, Town of Elbridge, Onondaga County, New York, 13080, United States",43.072785,-76.434685, Towpath W,Elbridge (town),4127
+" Towpath W, Elbridge (town), New York","Towpath Road, Town of Elbridge, Onondaga County, New York, 13080, United States",43.072785,-76.434685, Towpath W,Elbridge (town),3300
+" Toggenburg Rd, Fabius (town), New York","Toggenburg Road, Town of Fabius, Onondaga County, New York, 13063, United States",42.822169,-75.959825, Toggenburg Rd,Fabius (town),5200
+" Toggenburg Rd, Fabius (town), New York","Toggenburg Road, Town of Fabius, Onondaga County, New York, 13063, United States",42.822169,-75.959825, Toggenburg Rd,Fabius (town),1779
+"123 Argyle Ave, Geddes, New York","123, Argyle Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13219, United States",43.0343868,-76.1948646,123 Argyle Ave,Geddes,11013
+"123 Argyle Ave, Geddes, New York","123, Argyle Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13219, United States",43.0343868,-76.1948646,123 Argyle Ave,Geddes,200
+"900 State Fair Blvd, Geddes, New York","900, State Fair Boulevard, Lakeside, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.095661,-76.2413554,900 State Fair Blvd,Geddes,6200
+"900 State Fair Blvd, Geddes, New York","900, State Fair Boulevard, Lakeside, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.095661,-76.2413554,900 State Fair Blvd,Geddes,990
+"3547 Hayes Rd, Lysander, New York","3547, Hayes Road, Cold Springs, Town of Lysander, Onondaga County, New York, 13027, United States",43.1260278,-76.2654874,3547 Hayes Rd,Lysander,8000
+"3547 Hayes Rd, Lysander, New York","3547, Hayes Road, Cold Springs, Town of Lysander, Onondaga County, New York, 13027, United States",43.1260278,-76.2654874,3547 Hayes Rd,Lysander,1246
+" Richmond Rd W, Manlius (town), New York","Richmond Road West, Oot Park, Town of Manlius, Onondaga County, New York, 13057, United States",43.067218,-76.03505, Richmond Rd W,Manlius (town),5500
+" Dutton Ave, Onondaga, New York","Dutton Avenue, Nedrow, Town of Onondaga, Onondaga County, New York, 13120, United States",42.975291,-76.144899, Dutton Ave,Onondaga,2050
+" Dutton Ave, Onondaga, New York","Dutton Avenue, Nedrow, Town of Onondaga, Onondaga County, New York, 13120, United States",42.975291,-76.144899, Dutton Ave,Onondaga,1900
+" Michael Ave, Pompey, New York","Michael Avenue, Town of Pompey, Onondaga County, New York, 13078, United States",42.914079,-76.018743, Michael Ave,Pompey,1400
+" Michael Ave, Pompey, New York","Michael Avenue, Town of Pompey, Onondaga County, New York, 13078, United States",42.914079,-76.018743, Michael Ave,Pompey,1738
+"304 Molloy Rd E, Salina, New York","304, East Molloy Road, Hinsdale, Mattydale, City of Syracuse, Onondaga County, New York, 13211, United States",43.09790205,-76.13901204999999,304 Molloy Rd E,Salina,175000
+"189-191 Beechwood Ave, Salina, New York","Beechwood Avenue, Galeville, Town of Salina, Onondaga County, New York, 13088, United States",43.089315,-76.181609,189-191 Beechwood Ave,Salina,25000
+"189-191 Beechwood Ave, Salina, New York","Beechwood Avenue, Galeville, Town of Salina, Onondaga County, New York, 13088, United States",43.089315,-76.181609,189-191 Beechwood Ave,Salina,25716
+" Cold Springs Rd, Salina, New York","Cold Springs Road, Town of Salina, Onondaga County, New York, 13088, United States",43.1143,-76.222874, Cold Springs Rd,Salina,7000
+" Cold Springs Rd, Salina, New York","Cold Springs Road, Town of Salina, Onondaga County, New York, 13088, United States",43.1143,-76.222874, Cold Springs Rd,Salina,6878
+" Schaffer Ave, Salina, New York","Schaffer Avenue, Lyncourt, Town of Salina, Onondaga County, New York, 13298, United States",43.076968,-76.120717, Schaffer Ave,Salina,1700
+" Schaffer Ave, Salina, New York","Schaffer Avenue, Lyncourt, Town of Salina, Onondaga County, New York, 13298, United States",43.076968,-76.120717, Schaffer Ave,Salina,3845
+" Snyder Ave, Salina, New York","Snyder Avenue, Lyncourt, Town of Salina, Onondaga County, New York, 13206, United States",43.077013,-76.11995, Snyder Ave,Salina,1100
+" Snyder Ave, Salina, New York","Snyder Avenue, Lyncourt, Town of Salina, Onondaga County, New York, 13206, United States",43.077013,-76.11995, Snyder Ave,Salina,800
+" Snyder Ave, Salina, New York","Snyder Avenue, Lyncourt, Town of Salina, Onondaga County, New York, 13206, United States",43.077013,-76.11995, Snyder Ave,Salina,1961
+" Snyder Ave, Salina, New York","Snyder Avenue, Lyncourt, Town of Salina, Onondaga County, New York, 13206, United States",43.077013,-76.11995, Snyder Ave,Salina,1961
+"261 Leighton Ave, Salina, New York","261, Leighton Avenue, Lyncourt, City of Syracuse, Onondaga County, New York, 13206, United States",43.0768579,-76.1213494,261 Leighton Ave,Salina,200
+"261 Leighton Ave, Salina, New York","261, Leighton Avenue, Lyncourt, City of Syracuse, Onondaga County, New York, 13206, United States",43.0768579,-76.1213494,261 Leighton Ave,Salina,5050
+"516 Woods Rd, Solvay, New York","516, Woods Road, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.058268,-76.20574,516 Woods Rd,Solvay,7853
+"516 Woods Rd, Solvay, New York","516, Woods Road, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.058268,-76.20574,516 Woods Rd,Solvay,4200
+"212 Lamont Ave, Solvay, New York","212, Lamont Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0591536,-76.2043129,212 Lamont Ave,Solvay,4795
+"212 Lamont Ave, Solvay, New York","212, Lamont Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0591536,-76.2043129,212 Lamont Ave,Solvay,3500
+"1983 Milton Ave, Solvay, New York","1983, Milton Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0623179,-76.212807,1983 Milton Ave,Solvay,4169
+"1983 Milton Ave, Solvay, New York","1983, Milton Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0623179,-76.212807,1983 Milton Ave,Solvay,3100
+"118 Nicholsville Rd, Constantia, New York","118, Nicholsville Road, Nicholsville, Town of Constantia, Oswego County, New York, 13028, United States",43.2678718,-75.9489207,118 Nicholsville Rd,Constantia,59995
+"3430 Tall Tree Ln, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3430 Tall Tree Ln,Lysander,90000
+"131 Caroline Ave, Solvay, New York","131, Caroline Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0587656,-76.2012602,131 Caroline Ave,Solvay,55000
+"131 Caroline Ave, Solvay, New York","131, Caroline Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.0587656,-76.2012602,131 Caroline Ave,Solvay,40000
+"420 Old State Rd, Redfield, New York","420, Old State Road, Town of Redfield, Oswego County, New York, 13437, United States",43.619746500000005,-75.86512248404256,420 Old State Rd,Redfield,54999
+" Rolling Meadows Way, Camillus (town), New York","Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13022, United States",43.0431742,-76.3276483, Rolling Meadows Way,Camillus (town),52900
+" Rolling Meadows Way, Camillus (town), New York","Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13022, United States",43.0431742,-76.3276483, Rolling Meadows Way,Camillus (town),52900
+" Rolling Meadows Way, Camillus (town), New York","Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13022, United States",43.0431742,-76.3276483, Rolling Meadows Way,Camillus (town),52900
+" Rolling Meadows Way, Camillus (town), New York","Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13022, United States",43.0431742,-76.3276483, Rolling Meadows Way,Camillus (town),52900
+" Rolling Meadows Way, Camillus (town), New York","Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13022, United States",43.0431742,-76.3276483, Rolling Meadows Way,Camillus (town),52900
+" Rolling Meadows Way, Camillus (town), New York","Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13022, United States",43.0431742,-76.3276483, Rolling Meadows Way,Camillus (town),52900
+"4782 Appaloosa Trl, Clay, New York","4782, Appaloosa Trail, Town of Clay, Onondaga County, New York, 13041, United States",43.19062770913463,-76.18641158398434,4782 Appaloosa Trl,Clay,170000
+" Heritage Cir, Solvay, New York","Heritage Circle, Village of Solvay, Town of Geddes, Onondaga County, New York, 13209, United States",43.050112,-76.201133, Heritage Cir,Solvay,32000
+"10 Jennika Ln, Hastings, New York","Jennika Ln, Town of Hastings, Oswego County, New York, 13076, United States",43.333049,-76.139459,10 Jennika Ln,Hastings,6000
+" Oneida River Rd, Schroeppel, New York","Oneida River Road, Town of Schroeppel, Oswego County, New York, 13132, United States",43.2159629,-76.240682, Oneida River Rd,Schroeppel,80000
+" Oneida River Rd, Schroeppel, New York","Oneida River Road, Town of Schroeppel, Oswego County, New York, 13132, United States",43.2159629,-76.240682, Oneida River Rd,Schroeppel,7500
+" Glen Haven Rd, Sempronius, New York","Glen Haven Road, Town of Sempronius, Town of Scott, Cortland County, New York, 13077, United States",42.759742,-76.2710777, Glen Haven Rd,Sempronius,210000
+" Glen Haven Rd, Sempronius, New York","Glen Haven Road, Town of Sempronius, Town of Scott, Cortland County, New York, 13077, United States",42.759742,-76.2710777, Glen Haven Rd,Sempronius,164500
+"16266 Ontario Shores Dr, Sterling, New York","16266, Ontario Shores Drive, Moon Beach, Town of Sterling, Cayuga County, New York, 13156, United States",43.4029169,-76.6384181,16266 Ontario Shores Dr,Sterling,30000
+"4328 Outlook Dr, Onondaga, New York","4328, Outlook Drive, City of Syracuse, Onondaga County, New York, 13215, United States",42.981422,-76.1714758,4328 Outlook Dr,Onondaga,700000
+" Hogs Back Rd, Hastings, New York","Hogs Back Road, Town of Hastings, Oswego County, New York, 13076, United States",43.355612,-76.147171, Hogs Back Rd,Hastings,2000
+" Hogs Back Rd, Hastings, New York","Hogs Back Road, Town of Hastings, Oswego County, New York, 13076, United States",43.355612,-76.147171, Hogs Back Rd,Hastings,2000
+"301 Lee Rd, New Haven, New York","301, Lee Road, Town of Mexico, Oswego County, New York, 13114, United States",43.4902425,-76.2983434281425,301 Lee Rd,New Haven,161000
+"301 Lee Rd, New Haven, New York","301, Lee Road, Town of Mexico, Oswego County, New York, 13114, United States",43.4902425,-76.2983434281425,301 Lee Rd,New Haven,161000
+"501 Montrose Ave, Solvay, New York","501, Montrose Avenue, City of Syracuse, Town of Geddes, Onondaga County, New York, 13219, United States",43.0443924,-76.1964618,501 Montrose Ave,Solvay,185000
+"2629 Pine Grove Rd, Spafford, New York","2629, Pine Grove Road, Pine Grove, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.8446974,-76.3318906,2629 Pine Grove Rd,Spafford,399900
+" Andrews Rd, Sterling, New York","Andrews Road, Town of Sterling, Cayuga County, New York, United States",43.355905,-76.62252, Andrews Rd,Sterling,225000
+"116 Factory Ave, Salina, New York","116, Factory Avenue, Salina, City of Syracuse, Onondaga County, New York, 13208, United States",43.0898037,-76.1416943304092,116 Factory Ave,Salina,135000
+"2865 Main St, Parish (village), New York","2865, East Main Street, Village of Parish, Town of Parish, Albion, Oswego County, New York, 13131, United States",43.40442,-76.11819699999998,2865 Main St,Parish (village),547
+"407 Valley Rd, Richland, New York","407, Valley Road, Fernwood, Town of Richland, Oswego County, New York, 13142, United States",43.4941995,-76.15154004666545,407 Valley Rd,Richland,5247
+" Great Bear Rd, Volney, New York","Great Bear Road, Town of Schroeppel, Town of Volney, Oswego County, New York, 13069, United States",43.261103,-76.362359, Great Bear Rd,Volney,34730
+" Great Bear Rd, Volney, New York","Great Bear Road, Town of Schroeppel, Town of Volney, Oswego County, New York, 13069, United States",43.261103,-76.362359, Great Bear Rd,Volney,28140
+" Great Bear Rd, Volney, New York","Great Bear Road, Town of Schroeppel, Town of Volney, Oswego County, New York, 13069, United States",43.261103,-76.362359, Great Bear Rd,Volney,6130
+"315 Kingdom Rd, Volney, New York","315, Kingdom Road, Bundy Crossing, Town of Volney, Oswego County, New York, 13126, United States",43.3875363,-76.4394994,315 Kingdom Rd,Volney,5000
+"121-123 First St, Fulton, New York","First Street, Ward 4, City of Gloversville, Fulton County, New York, 12078, United States",43.0498506,-74.3537276,121-123 First St,Fulton,20000
+"1494 Griffin Rd, Throop, New York","1494, Griffin Road, City of Auburn, Cayuga County, New York, 13021, United States",42.9811855,-76.64125200000001,1494 Griffin Rd,Throop,309000
+"3158 State Route 90, Ledyard, New York","State Route 90, Town of Genoa, Cayuga County, New York, 13081, United States",42.678297,-76.653167,3158 State Route 90,Ledyard,685000
+"3158 State Route 90, Ledyard, New York","State Route 90, Town of Genoa, Cayuga County, New York, 13081, United States",42.678297,-76.653167,3158 State Route 90,Ledyard,550000
+"12595 Ira Station Rd, Victory, New York","12595, Ira Station Road, Town of Victory, Cayuga County, New York, 13111, United States",43.224843,-76.60291430508474,12595 Ira Station Rd,Victory,108000
+"12595 Ira Station Rd, Victory, New York","12595, Ira Station Road, Town of Victory, Cayuga County, New York, 13111, United States",43.224843,-76.60291430508474,12595 Ira Station Rd,Victory,80000
+"689 W Genesee Rd, Lysander, New York","689, West Genesee Road, Plainville, Town of Lysander, Onondaga County, New York, 13027, United States",43.1598176,-76.4559224,689 W Genesee Rd,Lysander,159000
+"31 Oneida View Dr, Schroeppel, New York","31, Oneida View Drive, Town of Schroeppel, Oswego County, New York, 13132, United States",43.2287966,-76.2070685,31 Oneida View Dr,Schroeppel,225000
+" Pork St, Skaneateles (town), New York","Pork Street, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.930703,-76.373056, Pork St,Skaneateles (town),51000
+"310-12 Buckingham Ave, Syracuse, New York","Buckingham Avenue, University Neighborhood, Dewitt, Onondaga County, New York, 13210, United States",43.0301962,-76.1211465,310-12 Buckingham Ave,Syracuse,30000
+"1206 Carbon St, Syracuse, New York","1206, Carbon Street, Washington Square, City of Syracuse, Onondaga County, New York, 13208, United States",43.0721133,-76.1623786,1206 Carbon St,Syracuse,18000
+"57 Hong Kong Rd, Albion, New York","57, Hong Kong Road, Town of Parish, Town of Albion, Oswego County, New York, 13131, United States",43.4634603,-76.1049214,57 Hong Kong Rd,Albion,15000
+"61.5 First St, Fulton, New York","First Street, Ward 4, City of Gloversville, Fulton County, New York, 12078, United States",43.0498506,-74.3537276,61.5 First St,Fulton,500
+"93 Bridge St, Phoenix, New York","93, Bridge Street, Village of Phoenix, Town of Schroeppel, Oswego County, New York, 13135, United States",43.233176,-76.29393350000001,93 Bridge St,Phoenix,4500
+" Capitol St, Auburn, New York","Capitol Street, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.937766,-76.538854, Capitol St,Auburn,4400
+" Brooks Rd, Genoa, New York","Brooks Road, Atwaters, Town of Genoa, Cayuga County, New York, 13081, United States",42.630308,-76.641149, Brooks Rd,Genoa,135000
+"9439, 9441 Skaneateles Turnpike, Brookfield, New York","9439, Skaneateles Turnpike, West Brookfield, Town of Brookfield, Madison County, New York, 13355, United States",42.8135685,-75.38432,"9439, 9441 Skaneateles Turnpike",Brookfield,329000
+"8921 Lake Rd, Lenox, New York","8921, Lake Road, Oneida Valley, Town of Verona, Town of Lenox, Madison County, New York, 13032, United States",43.1543413552819,-75.72080786515373,8921 Lake Rd,Lenox,20000
+" Route 316, Lenox, New York","Old Route 5, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.056832,-75.829519, Route 316,Lenox,20000
+" Lafayette Rd, LaFayette, New York","Lafayette Road, Town of Onondaga, Onondaga County, New York, 13205, United States",42.97684,-76.1106326, Lafayette Rd,LaFayette,112500
+" Silver Street Rd, Fleming, New York","Silver Street Road, Town of Fleming, Scipio, Cayuga County, New York, 13021, United States",42.880764,-76.562639, Silver Street Rd,Fleming,18000
+"1023 Emery St, Fulton, New York","1023, Emery Street, City of Fulton, Oswego County, New York, 13069, United States",43.325408,-76.398836,1023 Emery St,Fulton,1000
+"6 Anna St, Auburn, New York","6, Anna Street, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.9273642,-76.5500713,6 Anna St,Auburn,9200
+" Ontario Ave, Cicero, New York","Ontario Avenue, Lower South Bay, Town of Cicero, Onondaga County, New York, 13039, United States",43.198459,-76.058976, Ontario Ave,Cicero,2000
+"3792 Harke Ln, Clay, New York","3792, Harke Lane, Town of Clay, Onondaga County, New York, 13090, United States",43.191713528107385,-76.24590089338666,3792 Harke Ln,Clay,45000
+" Otisco Rd., Otisco, New York","Otisco Road, Rice Grove, Town of Otisco, Onondaga County, New York, 13159, United States",42.861784,-76.203204, Otisco Rd.,Otisco,5577
+"114-16 Lafayette Ave, Syracuse, New York","West Lafayette Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0189991,-76.1487379,114-16 Lafayette Ave,Syracuse,37000
+"310 Wilkinson St, Syracuse, New York","310, Wilkinson Street, Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0510924,-76.1651907,310 Wilkinson St,Syracuse,5000
+"1410-12 Colvin St W, Syracuse, New York","West Colvin Street, Brighton, City of Syracuse, Onondaga County, New York, 13207, United States",43.024536,-76.149369,1410-12 Colvin St W,Syracuse,976
+"164 Shaker Heights, Camillus (town), New York","164, Shaker Heights Drive, Windcrest Park, Town of Camillus, Onondaga County, New York, 13031, United States",43.0411538,-76.29565,164 Shaker Heights,Camillus (town),364900
+"164 Shaker Heights, Camillus (town), New York","164, Shaker Heights Drive, Windcrest Park, Town of Camillus, Onondaga County, New York, 13031, United States",43.0411538,-76.29565,164 Shaker Heights,Camillus (town),54900
+"3860 Hallston Dr, Clay, New York","3860, Hallston Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.19186518367347,-76.2435408367347,3860 Hallston Dr,Clay,45000
+"366 Little John Dr, Redfield, New York","366, Little John Drive, Greenboro, Town of Redfield, Oswego County, New York, 13437, United States",43.6468659,-75.8560332,366 Little John Dr,Redfield,26000
+" Robinson Rd, Throop, New York","Robinson Road, Sawyers Corner, Town of Throop, Cayuga County, New York, United States",42.9795083,-76.5962716, Robinson Rd,Throop,85000
+" W Hill Road, Madison (town), New York","West Hill Road, Town of DeRuyter, Madison County, New York, 13122, United States",42.805445,-75.895473, W Hill Road,Madison (town),36000
+" Maplehurst Rd, Cicero, New York","Maplehurst Road, Town of Cicero, Onondaga County, New York, 13039, United States",43.182979,-76.011005, Maplehurst Rd,Cicero,23000
+"200 Lyncourt Dr, Salina, New York","200, Lyncourt Drive, Lyncourt, City of Syracuse, Onondaga County, New York, 13208, United States",43.0821352,-76.1301638167042,200 Lyncourt Dr,Salina,245000
+"188 White Rd, Parish (town), New York","188, White Road, Town of Parish, Town of Hastings, Oswego County, New York, 13131, United States",43.3876615,-76.11127089872582,188 White Rd,Parish (town),240191
+"998 Carpenter Rd, Ledyard, New York","998, Carpenter Road, Town of Ledyard, Venice, Cayuga County, New York, 13026, United States",42.7238256,-76.6755047,998 Carpenter Rd,Ledyard,30000
+" Terry Rd, Geddes, New York","South Terry Road, Westvale, Town of Geddes, Onondaga County, New York, 13219, United States",43.038589,-76.219996, Terry Rd,Geddes,55000
+" Terry Rd, Geddes, New York","South Terry Road, Westvale, Town of Geddes, Onondaga County, New York, 13219, United States",43.038589,-76.219996, Terry Rd,Geddes,50000
+" Terry Rd, Geddes, New York","South Terry Road, Westvale, Town of Geddes, Onondaga County, New York, 13219, United States",43.038589,-76.219996, Terry Rd,Geddes,45000
+" Terry Rd, Geddes, New York","South Terry Road, Westvale, Town of Geddes, Onondaga County, New York, 13219, United States",43.038589,-76.219996, Terry Rd,Geddes,25000
+"115 Bridge St, Phoenix, New York","115, Bridge Street, Village of Phoenix, Town of Schroeppel, Oswego County, New York, 13135, United States",43.23367874348202,-76.29245941794554,115 Bridge St,Phoenix,65000
+"845 Poplar Ridge Rd, Ledyard, New York","845, Poplar Ridge Road, Poplar Ridge, Village of Aurora, Town of Ledyard, Town of Venice, Cayuga County, New York, 13026, United States",42.7371345,-76.6829955,845 Poplar Ridge Rd,Ledyard,332500
+" Smith Ridge Rd., Sullivan, New York","Smith Ridge Road, Eaton Corners, Town of Sullivan, Lenox, Madison County, New York, 13030, United States",43.138253,-75.905795, Smith Ridge Rd.,Sullivan,36000
+" Smith Ridge Rd., Sullivan, New York","Smith Ridge Road, Eaton Corners, Town of Sullivan, Lenox, Madison County, New York, 13030, United States",43.138253,-75.905795, Smith Ridge Rd.,Sullivan,70000
+"4536 Hollyshire Way, Clay, New York","Hollyshire Way, Town of Clay, Onondaga County, New York, 13041, United States",43.2024673,-76.1991162,4536 Hollyshire Way,Clay,585475
+"406 Fayette St, Manlius (village), New York","406, Fayette Street, Village of Manlius, Town of Manlius, Onondaga County, New York, 13104, United States",43.0065264,-75.98474932969702,406 Fayette St,Manlius (village),572779
+"418 Swansea Ave, Salina, New York","418, Swansea Avenue, Lyncourt, City of Syracuse, Onondaga County, New York, 13206, United States",43.08031765,-76.11816357783104,418 Swansea Ave,Salina,270000
+"721 Salina St, Syracuse, New York","721, Hillside Street, Lyncourt, City of Syracuse, Onondaga County, New York, 13208, United States",43.0810508,-76.1377162,721 Salina St,Syracuse,37500
+" Water Street, Cayuga, New York","Water Street, Town of Locke, Venice, Cayuga County, New York, 13092, United States",42.660511,-76.431975, Water Street,Cayuga,292
+"3797 Harke Ln, Clay, New York","3797, Harke Lane, Town of Clay, Onondaga County, New York, 13090, United States",43.191872765249606,-76.24604191118728,3797 Harke Ln,Clay,45000
+"1712 North Rd, LaFayette, New York","1712, North Road, Town of Tully, Onondaga County, New York, 13159, United States",42.8571867,-76.1051754,1712 North Rd,LaFayette,420000
+"105 Schuyler St, Oswego (city), New York","105, Schuyler Street, City of Fulton, Oswego County, New York, 13069, United States",43.32291361934031,-76.42273298953263,105 Schuyler St,Oswego (city),1000
+"8178 Warners Rd, Lenox, New York","Warners Road, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.109925,-75.761515,8178 Warners Rd,Lenox,189900
+" Seneca Beach Drive, Van Buren, New York","Seneca Beach Drive, Town of Van Buren, Onondaga County, New York, 13027, United States",43.143827,-76.313567, Seneca Beach Drive,Van Buren,15000
+"515-517 Buffalo St, Fulton, New York","Buffalo Street, City of Fulton, Oswego County, New York, 13069, United States",43.323048,-76.410242,515-517 Buffalo St,Fulton,500
+"3670 Lysander Rd, Ira, New York","3670, Lysander Road, Town of Cato, Cayuga County, New York, 13033, United States",43.2134615,-76.4984815,3670 Lysander Rd,Ira,75000
+" Walker Rd, Sennett, New York","Walker Road, Town of Sennett, Cayuga County, New York, 13021, United States",42.927496,-76.51983, Walker Rd,Sennett,40000
+" Hamilton Rd, Elbridge (town), New York","Hamilton Road, Village of Jordan, Town of Elbridge, Onondaga County, New York, 13080, United States",43.045161,-76.470827, Hamilton Rd,Elbridge (town),22000
+"3311 Apulia Rd, LaFayette, New York","3311, Apulia Road, Town of LaFayette, Onondaga County, New York, 13078, United States",42.9315902,-76.0648623,3311 Apulia Rd,LaFayette,20000
+"410 Kenwick Dr, Salina, New York","410, Kenwick Drive, Northside, Lyncourt, City of Syracuse, Onondaga County, New York, 13208, United States",43.07975565,-76.13539193142151,410 Kenwick Dr,Salina,3200
+"410 Kenwick Dr, Salina, New York","410, Kenwick Drive, Northside, Lyncourt, City of Syracuse, Onondaga County, New York, 13208, United States",43.07975565,-76.13539193142151,410 Kenwick Dr,Salina,118874
+"9548 Clarecastle Path, Cicero, New York","9548, Clarecastle Path, Brewerton, Town of Cicero, Onondaga County, New York, 13029, United States",43.2302502,-76.1496107,9548 Clarecastle Path,Cicero,43500
+" Curtain Rd, Tully (town), New York","Curtain Road, Town of Tully, Onondaga County, New York, 13159, United States",42.793414,-76.173187, Curtain Rd,Tully (town),142500
+" Curtain Rd, Tully (town), New York","Curtain Road, Town of Tully, Onondaga County, New York, 13159, United States",42.793414,-76.173187, Curtain Rd,Tully (town),75000
+"9468 Horseshoe Is Rd, Clay, New York","9468, Horseshoe Island Road, Town of Clay, Onondaga County, New York, 13041, United States",43.2291659,-76.2545287,9468 Horseshoe Is Rd,Clay,7501
+"843 Crow Hill Rd, Skaneateles (town), New York","843, Crow Hill Road, Mottville, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9748196,-76.4478596,843 Crow Hill Rd,Skaneateles (town),550000
+"525 Middle Rd, Scriba, New York","525, Middle Road, Hammonds Corner, Town of Scriba, Oswego County, New York, 13126, United States",43.4765725,-76.4048505,525 Middle Rd,Scriba,95000
+"302 Hitchcock Point Road, Sullivan, New York","302, Hitchcock Point Road, Town of Sullivan, Madison County, New York, 13030, United States",43.1717928,-75.9787961,302 Hitchcock Point Road,Sullivan,80000
+"8961 Cazenovia Rd, Pompey, New York","8961, Cazenovia Road, Town of Manlius, Onondaga County, New York, 13104, United States",42.9653579,-75.9091411,8961 Cazenovia Rd,Pompey,65000
+"108 Sinclair St, Skaneateles (village), New York","108, Sinclair Street, Village of Skaneateles, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.951093,-76.440101,108 Sinclair St,Skaneateles (village),305000
+" Lincoln Knolls E., Lincoln, New York","Lincoln Knolls East, Town of Lincoln, Madison County, New York, 13032, United States",43.0527887,-75.7599722, Lincoln Knolls E.,Lincoln,25000
+"227 Fairmount Ave, Salina, New York","227, Fairmount Avenue, Galeville, Town of Salina, Onondaga County, New York, 13088, United States",43.0892704,-76.1775897,227 Fairmount Ave,Salina,19000
+" Jess Dr, Redfield, New York","Jess Drive, Town of Redfield, Oswego County, New York, United States",43.626128,-75.856348, Jess Dr,Redfield,30000
+" Spring St, Hamilton (town), New York","Spring Street, Town of Hamilton, Madison County, New York, 13346, United States",42.823794,-75.530474, Spring St,Hamilton (town),75000
+"1385 Co Rt 37, West Monroe, New York","County Rt 37, Brewerton, Town of West Monroe, Oswego County, New York, 13029, United States",43.24846,-76.130188,1385 Co Rt 37,West Monroe,120000
+" Creek Rd, Sterling, New York","Creek Road, Town of Sterling, Cayuga County, New York, 13156, United States",43.344184,-76.680252, Creek Rd,Sterling,8000
+" Creek Rd, Sterling, New York","Creek Road, Town of Sterling, Cayuga County, New York, 13156, United States",43.344184,-76.680252, Creek Rd,Sterling,8000
+"6118 Lakeshore Rd, Cicero, New York","6118, Lakeshore Road, Lower South Bay, Town of Cicero, Onondaga County, New York, 13039, United States",43.1821382,-76.0980854,6118 Lakeshore Rd,Cicero,125000
+"6118 Lakeshore Rd, Cicero, New York","6118, Lakeshore Road, Lower South Bay, Town of Cicero, Onondaga County, New York, 13039, United States",43.1821382,-76.0980854,6118 Lakeshore Rd,Cicero,161586
+"708 North Rd, Tully (town), New York","708, North Road, Village of Tully, Town of Tully, Onondaga County, New York, 13159, United States",42.8061181,-76.1087214,708 North Rd,Tully (town),100000
+"2968 Ditmar Rd, Cato (town), New York","2968, Ditmar Road, Village of Weedsport, Brutus, Cayuga County, New York, 13166, United States",43.077637,-76.54314167901234,2968 Ditmar Rd,Cato (town),20000
+"9415 Woods Road, Sullivan, New York","9415, Woods Road, Town of Sullivan, Madison County, New York, 13030, United States",43.1743147,-75.9600508,9415 Woods Road,Sullivan,29000
+"8865 Beach Rd, Cicero, New York","8865, Beach Road, Sandy Bay, Town of Cicero, Onondaga County, New York, 13029, United States",43.2000986,-76.0807313,8865 Beach Rd,Cicero,300
+"88 Birmingham Dr, Amboy, New York","Birmingham Woods Drive, Town of Amboy, Oswego County, New York, 13028, United States",43.340554,-75.919217,88 Birmingham Dr,Amboy,13995
+" Gale Rd, Cleveland, New York","Gale Road, Village of Cleveland, Town of Constantia, Oswego County, New York, 13042, United States",43.248522,-75.887597, Gale Rd,Cleveland,12000
+"6718 Pottery Rd, Van Buren, New York","6718, Pottery Road, Garden Terrace, Town of Van Buren, Onondaga County, New York, 13164, United States",43.0995504,-76.289174,6718 Pottery Rd,Van Buren,250000
+"102 Steven Terr, Geddes, New York","102, Steven Terrace, City of Syracuse, Town of Geddes, Onondaga County, New York, 13219, United States",43.0349829,-76.2204194,102 Steven Terr,Geddes,400000
+" Mc Caw Rd, Redfield, New York","Mc Caw Road, Town of Redfield, Oswego County, New York, 13437, United States",43.509946,-75.795352, Mc Caw Rd,Redfield,35000
+" Nottingham Rd, DeWitt, New York","Nottingham Road, Dewitt, Onondaga County, New York, 13210, United States",43.0224879,-76.1102599, Nottingham Rd,DeWitt,60000
+"19 Fourth St, Fulton, New York","Fourth Street, Village of Northville, Town of Northampton, Fulton County, New York, 12134, United States",43.2273412,-74.1779346,19 Fourth St,Fulton,105000
+"15 Chinook St, Pulaski, New York","15, Chinook Street, Village of Pulaski, Town of Richland, Albion, Oswego County, New York, 13142, United States",43.563124050476674,-76.13475834714139,15 Chinook St,Pulaski,20000
+" Cleveland Road, Onondaga, New York","Cleveland Road, Onondaga Hill, Town of Onondaga, Onondaga County, New York, 13215, United States",42.978482,-76.17684, Cleveland Road,Onondaga,80000
+" Cleveland Road, Onondaga, New York","Cleveland Road, Onondaga Hill, Town of Onondaga, Onondaga County, New York, 13215, United States",42.978482,-76.17684, Cleveland Road,Onondaga,70000
+" Cleveland Road, Onondaga, New York","Cleveland Road, Onondaga Hill, Town of Onondaga, Onondaga County, New York, 13215, United States",42.978482,-76.17684, Cleveland Road,Onondaga,75000
+" Cleveland Road, Onondaga, New York","Cleveland Road, Onondaga Hill, Town of Onondaga, Onondaga County, New York, 13215, United States",42.978482,-76.17684, Cleveland Road,Onondaga,75000
+" Cleveland Road, Onondaga, New York","Cleveland Road, Onondaga Hill, Town of Onondaga, Onondaga County, New York, 13215, United States",42.978482,-76.17684, Cleveland Road,Onondaga,75000
+" Cleveland Road, Onondaga, New York","Cleveland Road, Onondaga Hill, Town of Onondaga, Onondaga County, New York, 13215, United States",42.978482,-76.17684, Cleveland Road,Onondaga,75000
+" Hessel Rd, Boylston, New York","Hessel Road, Town of Boylston, Oswego County, New York, United States",43.699612,-76.004384, Hessel Rd,Boylston,60000
+"138 Campbell Rd, Salina, New York","138, Campbell Road, Hinsdale, Mattydale, City of Syracuse, Onondaga County, New York, 13211, United States",43.1022979,-76.1416162,138 Campbell Rd,Salina,150000
+" Pople Ridge Rd, Mexico (town), New York","Pople Ridge Road, Wellwood, Town of Mexico, Oswego County, New York, United States",43.412997,-76.227484, Pople Ridge Rd,Mexico (town),17600
+" Brook Trout Ln, Redfield, New York","Brook Trout Lane, Town of Redfield, Oswego County, New York, 13437, United States",43.5494288,-75.7667653, Brook Trout Ln,Redfield,50000
+"753 Mc Donald Rd, Montezuma, New York","753, Mc Donald Road, Village of Port Byron, Mentz, Cayuga County, New York, 13140, United States",42.9969559,-76.6907262,753 Mc Donald Rd,Montezuma,180000
+" Richardson Hill Rd, Sempronius, New York","Richardson Hill Road, Morse Mill, Town of Sempronius, Cayuga County, New York, 13118, United States",42.734852,-76.354056, Richardson Hill Rd,Sempronius,100000
+" Whig Hill Rd, West Monroe, New York","Whig Hill Road, Whig Hill, Town of West Monroe, Oswego County, New York, 13167, United States",43.299313,-76.073155, Whig Hill Rd,West Monroe,15000
+"128 Meirs Rd, Williamstown, New York","128, Meirs Road, Town of Williamstown, Oswego County, New York, 13493, United States",43.42934,-75.8503092443609,128 Meirs Rd,Williamstown,21000
+" Perry Hill Rd, Oswego (town), New York","Perry Hill Road, Fruit Valley, Town of Oswego, Oswego County, New York, 13126, United States",43.431549,-76.571117, Perry Hill Rd,Oswego (town),1000
+" Perry Hill Rd, Oswego (town), New York","Perry Hill Road, Fruit Valley, Town of Oswego, Oswego County, New York, 13126, United States",43.431549,-76.571117, Perry Hill Rd,Oswego (town),50000
+" Wilson Point Rd, Sullivan, New York","Wilson Point Road, Oneida Lake Beach West, Town of Sullivan, Madison County, New York, United States",43.157159,-75.83553, Wilson Point Rd,Sullivan,55000
+" Co Rt 45, Volney, New York","Oswego County Energy Recovery, Town of Volney, Oswego County, New York, United States",43.3492521,-76.42511226709469, Co Rt 45,Volney,1500
+"5557 Rolling Meadows Way, Camillus (town), New York","5557, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0414853,-76.3294511,5557 Rolling Meadows Way,Camillus (town),51900
+"218 James St, Canastota, New York","218, James Street, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.075695,-75.7574135,218 James St,Canastota,5500
+"229 Canal St, Canastota, New York","Canal Street, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.079488,-75.751948,229 Canal St,Canastota,4000
+"4249 Canal Rd, Lenox, New York","4249, Canal Road, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.0889237,-75.7129972,4249 Canal Rd,Lenox,5500
+"6932 Guyder Rd, Lysander, New York","6932, Guyder Road, Jacks Reef, Town of Lysander, Onondaga County, New York, 13112, United States",43.1064835,-76.4285341,6932 Guyder Rd,Lysander,140000
+" Central Ave, Minoa, New York","North Central Avenue, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.074675,-76.003711, Central Ave,Minoa,17900
+"14 Dylan Dr, Central Square, New York","14, Dylan Drive, Village of Central Square, Town of Hastings, Oswego County, New York, 13036, United States",43.3019538,-76.1444629,14 Dylan Dr,Central Square,350000
+"5567 Rolling Meadows Way, Camillus (town), New York","5567, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0424955,-76.3295393,5567 Rolling Meadows Way,Camillus (town),505500
+"5567 Rolling Meadows Way, Camillus (town), New York","5567, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0424955,-76.3295393,5567 Rolling Meadows Way,Camillus (town),51900
+" Scenic Ave, Mexico (village), New York","Scenic Avenue, Village of Mexico, Town of Mexico, Oswego County, New York, 13114, United States",43.462675,-76.23201, Scenic Ave,Mexico (village),14000
+" Smith Rd, Lebanon, New York","Smith Road, Town of Lebanon, Madison County, New York, 13332, United States",42.741031,-75.5753, Smith Rd,Lebanon,11000
+"302 Champlin Rd, Summerhill, New York","302, Champlin Road, Town of Summerhill, Cayuga County, New York, 13073, United States",42.63242558736845,-76.29587044655001,302 Champlin Rd,Summerhill,255000
+" Craine Lake Rd, Lebanon, New York","Craine Lake Road, Town of Lebanon, Madison County, New York, 13346, United States",42.758406,-75.556064, Craine Lake Rd,Lebanon,70000
+"5569 Rolling Meadows Way, Camillus (town), New York","5569, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0427375,-76.3295581,5569 Rolling Meadows Way,Camillus (town),436850
+"5569 Rolling Meadows Way, Camillus (town), New York","5569, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0427375,-76.3295581,5569 Rolling Meadows Way,Camillus (town),51900
+" Darrow Ave, Solvay, New York","Darrow Avenue, Fairmount, Village of Solvay, Town of Geddes, Onondaga County, New York, 13209, United States",43.058071,-76.22587, Darrow Ave,Solvay,170000
+" Swamp Rd, Sennett, New York","Swamp Road, Town of Sennett, Cayuga County, New York, United States",42.948932,-76.490828, Swamp Rd,Sennett,85000
+"3383 Longview Terrace, Lysander, New York","Longview Terrace, Radisson, Town of Lysander, Onondaga County, New York, 13135, United States",43.2023512,-76.2840647,3383 Longview Terrace,Lysander,525000
+"3424 Tall Tree Lane, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3424 Tall Tree Lane,Lysander,403420
+"3424 Tall Tree Lane, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3424 Tall Tree Lane,Lysander,65000
+" Tannery Ln, Fulton, New York","Tannery Lane, City of Fulton, Oswego County, New York, 13069, United States",43.323808,-76.433377, Tannery Ln,Fulton,6500
+" Tannery Ln, Fulton, New York","Tannery Lane, City of Fulton, Oswego County, New York, 13069, United States",43.323808,-76.433377, Tannery Ln,Fulton,6000
+" Tannery Ln, Fulton, New York","Tannery Lane, City of Fulton, Oswego County, New York, 13069, United States",43.323808,-76.433377, Tannery Ln,Fulton,3000
+" Tannery Ln, Fulton, New York","Tannery Lane, City of Fulton, Oswego County, New York, 13069, United States",43.323808,-76.433377, Tannery Ln,Fulton,3000
+" Bear Swamp Rd, Sempronius, New York","Bear Swamp Road, Town of Sempronius, Cayuga County, New York, United States",42.76332,-76.305234, Bear Swamp Rd,Sempronius,211325
+" Stevens Rd, Elbridge (town), New York","Stevens Road, Jones Point, Town of Elbridge, Onondaga County, New York, 13080, United States",43.094153,-76.461986, Stevens Rd,Elbridge (town),5000
+" Stevens Rd, Elbridge (town), New York","Stevens Road, Jones Point, Town of Elbridge, Onondaga County, New York, 13080, United States",43.094153,-76.461986, Stevens Rd,Elbridge (town),10000
+"210-16 Goodfellow Rd, Palermo, New York","Goodfellow Road, Town of Palermo, Oswego County, New York, 13069, United States",43.354745,-76.306524,210-16 Goodfellow Rd,Palermo,100000
+" Meirs Rd, Williamstown, New York","Meirs Road, Town of Williamstown, Oswego County, New York, 13483, United States",43.429084,-75.85152, Meirs Rd,Williamstown,60000
+" Atwood Rd, Sempronius, New York","Atwood Road, Town of Sempronius, Cayuga County, New York, 13118, United States",42.717477,-76.295269, Atwood Rd,Sempronius,36000
+"6927 Island Rd, Cicero, New York","6927, Island Road, Brown Center, Town of Cicero, Onondaga County, New York, 13039, United States",43.169579,-76.0479373,6927 Island Rd,Cicero,120000
+"213 Seymour St, Auburn, New York","213, Seymour Street, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.9382249,-76.5774937,213 Seymour St,Auburn,65000
+" Shepherd Rd, Brutus, New York","Shepherd Road, Town of Sennett, Town of Brutus, Cayuga County, New York, 13166, United States",43.030036,-76.535913, Shepherd Rd,Brutus,10
+"254 Main Street, Mentz, New York","254, Main Street, Village of Port Byron, Town of Mentz, Cayuga County, New York, 13140, United States",43.0446945,-76.6204435,254 Main Street,Mentz,290000
+"105.5 Meyers Rd, Salina, New York","Meyers Road, Village of Liverpool, Town of Salina, Onondaga County, New York, 13088, United States",43.113758,-76.216234,105.5 Meyers Rd,Salina,295000
+"5 Marsden Dr, Mexico (town), New York","5, Marsden Drive, Town of Mexico, Oswego County, New York, 13114, United States",43.5219875,-76.2493309,5 Marsden Dr,Mexico (town),19500
+"203 Albright Rd, New Haven, New York","203, Albright Road, Town of New Haven, Oswego County, New York, 13114, United States",43.47027131164766,-76.33248622727218,203 Albright Rd,New Haven,145000
+"4501 East Lake Rd, Cazenovia (town), New York","4501, East Lake Road, Town of Cazenovia, Lenox, Madison County, New York, 13035, United States",42.9407397,-75.8598106,4501 East Lake Rd,Cazenovia (town),300000
+"210-12 Glenwood Ave, Syracuse, New York","Glenwood Avenue, Elmwood, City of Syracuse, Onondaga County, New York, 13207, United States",43.0187948,-76.1614981,210-12 Glenwood Ave,Syracuse,2060
+"129-31 Baker Ave, Syracuse, New York","Baker Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.029046,-76.143579,129-31 Baker Ave,Syracuse,69
+"276 Lakeshore Rd, Oswego (town), New York","276, Lakeshore Road, Town of Granby, Oswego County, New York, 13069, United States",43.29391616666667,-76.44989077777778,276 Lakeshore Rd,Oswego (town),92300
+"10185 Jordan Road, Cato (town), New York","10185, Jordan Road, Town of Cato, Cayuga County, New York, 13080, United States",43.1105565,-76.49523022282608,10185 Jordan Road,Cato (town),10000
+"3078 Bush Rd, Pompey, New York","3078, Bush Road, Town of Pompey, Onondaga County, New York, 13078, United States",42.9205342,-76.0348357,3078 Bush Rd,Pompey,285000
+" Co Rt 4, Hastings, New York","County Highway 12, Caughdenoy, Town of Hastings, Oswego County, New York, 13036, United States",43.272032,-76.208434, Co Rt 4,Hastings,38900
+"326 Mc Caw Rd, Redfield, New York","326, Mc Caw Road, Town of Redfield, Oswego County, New York, 13437, United States",43.5174473,-75.7958747,326 Mc Caw Rd,Redfield,30000
+" Kline Rd, Schroeppel, New York","Kline Road, Sand Ridge, Town of Schroeppel, Oswego County, New York, 13132, United States",43.2550223,-76.2444864, Kline Rd,Schroeppel,22000
+"919 Stone Hill Rd, Williamstown, New York","919, Stone Hill Road, Town of Williamstown, Albion, Oswego County, New York, 13493, United States",43.4228472,-75.9219326,919 Stone Hill Rd,Williamstown,47000
+" Ricard Rd, Williamstown, New York","Ricard Road, Ricard, Town of Williamstown, Oswego County, New York, 13302, United States",43.500907,-75.913443, Ricard Rd,Williamstown,3000
+"3757 Malibu Hills Drive, Camillus (town), New York","3757, Malibu Hills Drive, City of Syracuse, Onondaga County, New York, 13209, United States",43.0596588,-76.252036,3757 Malibu Hills Drive,Camillus (town),415700
+"26 Montgomery St, Parish (village), New York","26, Montgomery Street, Village of Parish, Town of Parish, Albion, Oswego County, New York, 13131, United States",43.4016705,-76.12830934489051,26 Montgomery St,Parish (village),9000
+"14831 Hadcock Dr, Fair Haven, New York","14831, Hadcock Drive, Village of Fair Haven, Town of Sterling, Cayuga County, New York, 13156, United States",43.33194135202682,-76.71420381306115,14831 Hadcock Dr,Fair Haven,70000
+" Peat Bed Rd, Hannibal (town), New York","Peat Bed Road, Town of Hannibal, Oswego County, New York, 13074, United States",43.307928,-76.553446, Peat Bed Rd,Hannibal (town),20000
+" Co Rt 4, Volney, New York","Oswego County Energy Recovery, Town of Volney, Oswego County, New York, United States",43.3492521,-76.42511226709469, Co Rt 4,Volney,54000
+"9130 Ashley Landing Dr, Clay, New York","9130, Ashley Landing Drive, Oak Orchard, Town of Clay, Onondaga County, New York, 13041, United States",43.2121165,-76.2053184,9130 Ashley Landing Dr,Clay,478000
+"545-47 Park Ave, Syracuse, New York","Park Avenue, Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.052153,-76.175592,545-47 Park Ave,Syracuse,976
+"66 Second St, Fulton, New York","66, Second Street, Ward 4, City of Gloversville, Fulton County, New York, 12078, United States",43.048913,-74.35457314285713,66 Second St,Fulton,72000
+" Old State Rd, Victory, New York","Old State Road, Town of Victory, Cayuga County, New York, United States",43.196719,-76.647445, Old State Rd,Victory,485000
+"3544 Wyckoff Rd, Scipio, New York","3544, Wyckoff Road, Elmwood, Town of Moravia, Town of Scipio, Cayuga County, New York, 13118, United States",42.789931,-76.5288705,3544 Wyckoff Rd,Scipio,800000
+" Hayes Rd, Lysander, New York","Hayes Road, Cold Springs, Town of Lysander, Onondaga County, New York, 13027, United States",43.125496,-76.269221, Hayes Rd,Lysander,15000
+" Riverside Pointe Dr, Albion, New York","Riverside Pointe Drive, Town of Albion, Oswego County, New York, 13142, United States",43.539513,-76.064023, Riverside Pointe Dr,Albion,85000
+"92 Lewis St, Pulaski, New York","92, Lewis Street, Village of Pulaski, Town of Richland, Albion, Oswego County, New York, 13142, United States",43.5662801,-76.1236493,92 Lewis St,Pulaski,49900
+"5554 Huntington Camp Rd, Eaton, New York","5554, Huntington Camp Road, Town of Eaton, Madison County, New York, 13334, United States",42.83973403634562,-75.65910619731596,5554 Huntington Camp Rd,Eaton,60000
+,"Nanno, Ville d'Anaunia, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38093, Italia",46.3144754,11.0480288,,Syracuse,151
+,"Nanno, Ville d'Anaunia, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38093, Italia",46.3144754,11.0480288,,Syracuse,151
+"5875 Quarter Moon Dr, Onondaga, New York","5875, Quarter Moon Drive, Town of Onondaga, Onondaga County, New York, 13078, United States",42.9889928,-76.1174505,5875 Quarter Moon Dr,Onondaga,53000
+"2835 Gardner Rd, Pompey, New York","2835, Gardner Road, Town of Fabius, Onondaga County, New York, 13063, United States",42.9086135,-76.0014041,2835 Gardner Rd,Pompey,56000
+" Hume Ln, Throop, New York","Hume Lane, Town of Throop, Cayuga County, New York, 13021, United States",42.964667,-76.588526, Hume Ln,Throop,40000
+"113-115 Roberts St, Canastota, New York","Roberts Street, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.088699,-75.733768,113-115 Roberts St,Canastota,100000
+"9028 River Rd, Lysander, New York","9028, River Road, Radisson, Town of Lysander, Onondaga County, New York, 13135, United States",43.2093477,-76.2879373,9028 River Rd,Lysander,30000
+"1907 Hibbard Rd, Brookfield, New York","1907, Hibbard Road, Guideboard, Town of Brookfield, Madison County, New York, 13485, United States",42.814559,-75.3536799,1907 Hibbard Rd,Brookfield,33000
+"56 Payne St, Hamilton (village), New York","56, Payne Street, Village of Hamilton, Town of Hamilton, Madison County, New York, 13346, United States",42.8283543,-75.53744,56 Payne St,Hamilton (village),730000
+"63-65 First St, Fulton, New York","First Street, Ward 4, City of Gloversville, Fulton County, New York, 12078, United States",43.0498506,-74.3537276,63-65 First St,Fulton,1000
+"1761 Bush Hill Rd, Conquest, New York","1761, Bush Hill Road, Village of Port Byron, Cayuga County, New York, 13140, United States",43.1146755,-76.6241455,1761 Bush Hill Rd,Conquest,16000
+" Smith Rd, Cazenovia (town), New York","Smith Road, Town of Cazenovia, Madison County, New York, 13122, United States",42.846617,-75.83189, Smith Rd,Cazenovia (town),62000
+"5874 Quarry Rd, Lincoln, New York","5874, Quarry Road, Village of Canastota, Town of Lincoln, Madison County, New York, 13032, United States",43.0073748,-75.7992027,5874 Quarry Rd,Lincoln,29000
+"212 Mc Caw Rd, Redfield, New York","212, Mc Caw Road, Town of Redfield, Oswego County, New York, 13437, United States",43.508483,-75.791676,212 Mc Caw Rd,Redfield,35000
+"23 Dunlap Avenue, Marcellus (village), New York","23, Dunlap Avenue, Village of Marcellus, Town of Marcellus, Onondaga County, New York, 13108, United States",42.9756925,-76.34329323170732,23 Dunlap Avenue,Marcellus (village),99900
+"7362 Skadden Terr, Tully (village), New York","7362, Skadden Terrace, Village of Tully, Town of Tully, Onondaga County, New York, 13159, United States",42.798962,-76.1121966,7362 Skadden Terr,Tully (village),16500
+" Fancher Ave, Fair Haven, New York","Fancher Avenue, North Fair Haven, Village of Fair Haven, Town of Sterling, Cayuga County, New York, 13064, United States",43.322294,-76.705434, Fancher Ave,Fair Haven,90000
+"4776 Westcott Road, Eaton, New York","4776, Westcott Road, Town of Eaton, Madison County, New York, 13334, United States",42.8318872,-75.6810559,4776 Westcott Road,Eaton,1000
+"6130 Mud Mill Rd, Cicero, New York","6130, Mud Mill Road, Town of Cicero, Onondaga County, New York, 13029, United States",43.19858679656313,-76.09686202170523,6130 Mud Mill Rd,Cicero,59999
+"4644 Kingsford Ter, Onondaga, New York","4644, Kingsford Terrace, Town of Onondaga, Onondaga County, New York, 13215, United States",42.99173379420248,-76.17008522427531,4644 Kingsford Ter,Onondaga,770000
+"122 Pebblestone Drive, Chittenango, New York","122, Pebblestone Drive, Village of Chittenango, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.0508388,-75.8888673,122 Pebblestone Drive,Chittenango,19000
+"128 Roswell Ave, Onondaga, New York","128, West Roswell Avenue, Nedrow, Town of Onondaga, Onondaga County, New York, 13120, United States",42.9783583,-76.1440064,128 Roswell Ave,Onondaga,4500
+"339 Williams St, Oneida (city), New York","339, Williams Street, City of Oneida, Lenox, Madison County, New York, 13421, United States",43.10284317969951,-75.6545042003091,339 Williams St,Oneida (city),13000
+"3880 Hallston Dr, Clay, New York","3880, Hallston Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.19182824489796,-76.2433914489796,3880 Hallston Dr,Clay,90000
+"8798 Dell Center Dr, Clay, New York","8798, Dell Center Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.189776,-76.243988,8798 Dell Center Dr,Clay,40000
+" Beard Ave, DeWitt, New York","Beard Avenue, Town of De Witt, Onondaga County, New York, 13057, United States",43.07118,-76.084252, Beard Ave,DeWitt,99000
+"104 Rising Crest Cir, Minoa, New York","104, Rising Crest Circle, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.06893040688215,-76.0135861183901,104 Rising Crest Cir,Minoa,46000
+"420 Park Ave, Fulton, New York","420, Park Avenue, City of Fulton, Oswego County, New York, 13069, United States",43.3130232,-76.4215544,420 Park Ave,Fulton,1000
+"58 Daysville Rd, Richland, New York","Daysville Road, Daysville, Town of Richland, Oswego County, New York, United States",43.529001,-76.182247,58 Daysville Rd,Richland,36000
+"5651 &5653 Davey Rd, Cicero, New York","East Davey Road, Brewerton, Town of Cicero, Onondaga County, New York, 13029, United States",43.236691,-76.135923,5651 &5653 Davey Rd,Cicero,500000
+" Berry Rd, LaFayette, New York","Berry Road, Town of LaFayette, Onondaga County, New York, 13084, United States",42.875058,-76.052012, Berry Rd,LaFayette,33000
+" St Rt 3, Sandy Creek (town), New York","North Main Street, Village of Sandy Creek, Town of Sandy Creek, Oswego County, New York, 13083, United States",43.647264,-76.0856519, St Rt 3,Sandy Creek (town),17500
+"4933 West Lake Rd, Fleming, New York","4933, West Lake Road, Elmwood, City of Auburn, Town of Scipio, Cayuga County, New York, 13021, United States",42.8540344,-76.5313399,4933 West Lake Rd,Fleming,265000
+" Poolville Rd, Hamilton (town), New York","Poolville Road, Hubbardsville, Town of Hamilton, Madison County, New York, 13346, United States",42.799451,-75.487682, Poolville Rd,Hamilton (town),51000
+"5648 River Rock Dr, Elbridge (town), New York","5648, River Rock Drive, Town of Elbridge, Onondaga County, New York, 13060, United States",43.0413879,-76.4294287,5648 River Rock Dr,Elbridge (town),25000
+"1437 Old Seneca Tpk, Skaneateles (town), New York","1437, Old Seneca Turnpike, Willow Glen, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9821624,-76.405964,1437 Old Seneca Tpk,Skaneateles (town),450000
+"9011 Kennedy Lane, Sullivan, New York","Kennedy Lane, Town of Sullivan, Madison County, New York, 13032, United States",43.157722,-75.822869,9011 Kennedy Lane,Sullivan,37000
+" Broadfield Rd, Pompey, New York","Broadfield Road, Town of Pompey, Onondaga County, New York, 13104, United States",42.988148,-75.964895, Broadfield Rd,Pompey,100000
+"120 Baker Ave, Syracuse, New York","120, Baker Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0305763,-76.1447022,120 Baker Ave,Syracuse,135000
+"4520 Vinegar Hill Rd, Skaneateles (town), New York","4520, Vinegar Hill Road, Long Bridge, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9894869,-76.4394982,4520 Vinegar Hill Rd,Skaneateles (town),27000
+"125 Wood Avenue, Syracuse, New York","125, Wood Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0255987,-76.147649,125 Wood Avenue,Syracuse,151
+"125 Wood Avenue, Syracuse, New York","125, Wood Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0255987,-76.147649,125 Wood Avenue,Syracuse,151
+"6976 Glen Haven Rd, Sempronius, New York","6976, Glen Haven Road, Town of Sempronius, Town of Moravia, Cayuga County, New York, 13118, United States",42.7741575,-76.27980224468467,6976 Glen Haven Rd,Sempronius,825000
+" Center Street Rd, Sennett, New York","Center Street Road, Town of Sennett, Cayuga County, New York, 13021, United States",42.971412,-76.493164, Center Street Rd,Sennett,10000
+" Center Street Rd, Sennett, New York","Center Street Road, Town of Sennett, Cayuga County, New York, 13021, United States",42.971412,-76.493164, Center Street Rd,Sennett,28000
+"224 Yates St, East Syracuse, New York","224, East Yates Street, Village of East Syracuse, Town of De Witt, Onondaga County, New York, 13057, United States",43.06587626530612,-76.06847775510204,224 Yates St,East Syracuse,1000
+"24 Baker Road, Marcellus (village), New York","24, Baker Road, Village of Marcellus, Town of Marcellus, Onondaga County, New York, 13108, United States",42.97729492646148,-76.34200519388986,24 Baker Road,Marcellus (village),94905
+"1622 Coon Hill Rd, Skaneateles (town), New York","1622, Coon Hill Road, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9166515,-76.3934399,1622 Coon Hill Rd,Skaneateles (town),10000
+" South Street Rd, Fleming, New York","South Street, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.915407,-76.564939, South Street Rd,Fleming,30000
+" Pleasant Ave, North Syracuse, New York","Pleasant Avenue, Village of North Syracuse, Town of Clay, Onondaga County, New York, 13212, United States",43.126459,-76.132967, Pleasant Ave,North Syracuse,600
+" Kehoe Rd, Sandy Creek (town), New York","Kehoe Road, Town of Sandy Creek, Oswego County, New York, 13145, United States",43.658845,-76.117485, Kehoe Rd,Sandy Creek (town),9000
+"8799 Dell Center Dr, Clay, New York","8799, Dell Center Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.18748153618095,-76.24379955674206,8799 Dell Center Dr,Clay,42500
+"8071 River Rd, Lysander, New York","8071, River Road, Cold Springs, Town of Lysander, Onondaga County, New York, 13027, United States",43.161104,-76.2788726,8071 River Rd,Lysander,189610
+" Otisco Valley Rd, Otisco, New York","Otisco Valley Road, Heath Grove, Rice Grove, Amber, Town of Otisco, Onondaga County, New York, 13110, United States",42.831133,-76.233909, Otisco Valley Rd,Otisco,149900
+" Otisco Valley Rd, Otisco, New York","Otisco Valley Road, Heath Grove, Rice Grove, Amber, Town of Otisco, Onondaga County, New York, 13110, United States",42.831133,-76.233909, Otisco Valley Rd,Otisco,11
+"103 Florida Rd N, Salina, New York","103, Florida Road, Hinsdale, Mattydale, City of Syracuse, Onondaga County, New York, 13211, United States",43.0989874,-76.13282909044305,103 Florida Rd N,Salina,140000
+"1546 Mcfarland Rd, Sterling, New York","1546, McFarland Road, Town of Sterling, Cayuga County, New York, 13156, United States",43.3697997,-76.6380934,1546 Mcfarland Rd,Sterling,249900
+"6381 Finish Line Trl, Cicero, New York","6381, Finish Line Trail, Town of Cicero, Onondaga County, New York, 13039, United States",43.1933712,-76.0843028,6381 Finish Line Trl,Cicero,49500
+"117 Maccollum Rd, Elbridge (village), New York","117, Maccollum Road, Village of Elbridge, Town of Elbridge, Onondaga County, New York, 13060, United States",43.032089,-76.4441399,117 Maccollum Rd,Elbridge (village),36000
+"3133 Lake Rd, Skaneateles (town), New York","3133, East Lake Road, Borodino, Village of Skaneateles, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9225258,-76.4054298,3133 Lake Rd,Skaneateles (town),4600000
+" Black Creek Rd, Clay, New York","Black Creek Road, Town of Clay, Onondaga County, New York, 13029, United States",43.234584,-76.191389, Black Creek Rd,Clay,112000
+"134 Giddings Trl, Lysander, New York","134, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1699736,-76.3584672,134 Giddings Trl,Lysander,473305
+"134 Giddings Trl, Lysander, New York","134, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1699736,-76.3584672,134 Giddings Trl,Lysander,54000
+"4917 Seneca Tpke, Onondaga, New York","4917, West Seneca Turnpike, Onondaga Hill, City of Syracuse, Onondaga County, New York, 13215, United States",43.0057995,-76.1760238,4917 Seneca Tpke,Onondaga,84500
+" Kibbie Lake Rd, Constantia, New York","Kibbie Lake Road, Nicholsville, Town of Constantia, Oswego County, New York, 13044, United States",43.267407,-75.97394, Kibbie Lake Rd,Constantia,20000
+" Kibbie Lake Rd, Constantia, New York","Kibbie Lake Road, Nicholsville, Town of Constantia, Oswego County, New York, 13044, United States",43.267407,-75.97394, Kibbie Lake Rd,Constantia,25000
+"32 Mill St, Port Byron, New York","32, Mill Street, Village of Port Byron, Town of Mentz, Cayuga County, New York, 13140, United States",43.0335445,-76.62488426222825,32 Mill St,Port Byron,60000
+"354 Washington Ave, Oneida (city), New York","354, Washington Avenue, City of Oneida, Lincoln, Madison County, New York, 13421, United States",43.0913069,-75.656893,354 Washington Ave,Oneida (city),140500
+"699 Rugby Rd, Sullivan, New York","699, Rugby Road, Town of Sullivan, Madison County, New York, 13030, United States",43.172013,-75.9480801,699 Rugby Rd,Sullivan,38625
+"4774 Cleveland Rd, Onondaga, New York","4774, Cleveland Road, Onondaga Hill, City of Syracuse, Onondaga County, New York, 13215, United States",43.0010708,-76.1791826,4774 Cleveland Rd,Onondaga,2000
+"135 Maxwell Avenue, Syracuse, New York","135, Maxwell Avenue, North Valley, City of Syracuse, Onondaga County, New York, 13207, United States",43.0059402,-76.1561848,135 Maxwell Avenue,Syracuse,151
+" Lawrence Rd, Camillus (town), New York","Lawrence Road, Edgewood Garden, Town of Camillus, Onondaga County, New York, 13209, United States",43.092593,-76.256335, Lawrence Rd,Camillus (town),35000
+"139 Maxwell Avenue, Syracuse, New York","139, Maxwell Avenue, North Valley, City of Syracuse, Onondaga County, New York, 13207, United States",43.0059435,-76.1563158,139 Maxwell Avenue,Syracuse,151
+"419 Fire Lane 33, Moravia (town), New York","419, Fire Lane 33, Southeast Owasco, Town of Moravia, Cayuga County, New York, 13118, United States",42.7648247,-76.4621139,419 Fire Lane 33,Moravia (town),10000
+"2351 Turnpike Rd, Throop, New York","2351, Turnpike Road, Sawyers Corner, City of Auburn, Cayuga County, New York, 13021, United States",42.9725205,-76.5846634,2351 Turnpike Rd,Throop,324900
+"4060 Long Hill Rd, Venice, New York","4060, Long Hill Road, Stewart Corners, Town of Moravia, Town of Venice, Cayuga County, New York, 13118, United States",42.73314,-76.4730105,4060 Long Hill Rd,Venice,25000
+"7396 Lakeshore Rd, Cicero, New York","7396, Lakeshore Road, Kraus Landing, Town of Cicero, Onondaga County, New York, 13039, United States",43.1854896,-76.0129385,7396 Lakeshore Rd,Cicero,75000
+" State Route 31, Clay, New York","State Route 31, Town of Clay, Onondaga County, New York, 13041, United States",43.1853711,-76.2385144, State Route 31,Clay,900000
+"24 Dunlap Avenue, Marcellus (village), New York","24, Dunlap Avenue, Village of Marcellus, Town of Marcellus, Onondaga County, New York, 13108, United States",42.975691000000005,-76.34329312195122,24 Dunlap Avenue,Marcellus (village),99900
+"20 Baker Road, Marcellus (village), New York","20, Baker Road, Village of Marcellus, Town of Marcellus, Onondaga County, New York, 13108, United States",42.97736457619576,-76.34201024954625,20 Baker Road,Marcellus (village),85405
+"19 Baker Road, Marcellus (village), New York","19, Baker Road, Village of Marcellus, Town of Marcellus, Onondaga County, New York, 13108, United States",42.975758523809525,-76.34170271428572,19 Baker Road,Marcellus (village),75905
+" Jupiter Inlet Way, Onondaga, New York","Jupiter Inlet Way, Town of Onondaga, Onondaga County, New York, 13207, United States",43.0232554,-76.1821481, Jupiter Inlet Way,Onondaga,65000
+" Salina St, Lacona, New York","Salina Street, Village of Lacona, Lacona, Oswego County, New York, 13083, United States",43.640447,-76.069252, Salina St,Lacona,5000
+"5953 Sayles Corners Rd, Sempronius, New York","5953, Sayles Corners Road, Town of Sempronius, Town of Moravia, Cayuga County, New York, 13118, United States",42.7592955,-76.34864250648796,5953 Sayles Corners Rd,Sempronius,460000
+"298 Auringer Rd, Constantia, New York","Auringer Road, Town of Constantia, Oswego County, New York, 13044, United States",43.275681,-76.006576,298 Auringer Rd,Constantia,65000
+" Rikers Beach Rd, Scriba, New York","Rikers Beach Road, Town of Scriba, Oswego County, New York, United States",43.500667,-76.446758, Rikers Beach Rd,Scriba,22000
+" Wilkinson Road, Hamilton (town), New York","Wilkinson Road, Town of Hamilton, Madison County, New York, United States",42.759106,-75.445285, Wilkinson Road,Hamilton (town),65000
+" Caughdenoy Rd, Clay, New York","Caughdenoy Road, Youngs, Town of Clay, Onondaga County, New York, 13041, United States",43.206166,-76.166289, Caughdenoy Rd,Clay,55000
+"9116 Frenchmans Ck Dr, Lysander, New York","9116, Frenchmans Creek Drive, Town of Lysander, Onondaga County, New York, 13135, United States",43.2081335,-76.2911151,9116 Frenchmans Ck Dr,Lysander,69900
+"712 Main St, Fair Haven, New York","712, Main Street, Village of Fair Haven, Town of Sterling, Cayuga County, New York, 13156, United States",43.3165,-76.6913285,712 Main St,Fair Haven,24900
+"26 South Meadow Dr, Cazenovia (village), New York","26, South Meadow Drive, Village of Cazenovia, Town of Cazenovia, Madison County, New York, 13035, United States",42.9185169,-75.8434849,26 South Meadow Dr,Cazenovia (village),64000
+" Johnson Rd, Constantia, New York","Johnson Road, Nicholsville, Town of Constantia, Oswego County, New York, 13028, United States",43.258064,-75.95896, Johnson Rd,Constantia,150000
+"157 Tubbs Rd, Mexico (town), New York","157, Tubbs Road, Village of Mexico, Town of Mexico, Albion, Oswego County, New York, 13114, United States",43.467249,-76.15665220454545,157 Tubbs Rd,Mexico (town),115000
+" Sharp Rd, Granby, New York","Sharp Road, Town of Granby, Oswego County, New York, 13115, United States",43.271255,-76.443703, Sharp Rd,Granby,61000
+"9005 Kennedy Ln, Sullivan, New York","9005, Kennedy Lane, Village of Canastota, Madison County, New York, 13032, United States",43.1578518,-75.8235523,9005 Kennedy Ln,Sullivan,42000
+"1515 Honoco Rd, Ledyard, New York","1515, Honoco Road, Town of Ledyard, Cayuga County, New York, 13026, United States",42.694681,-76.6797358,1515 Honoco Rd,Ledyard,112800
+"5085 Van Zandt Rd, Onondaga, New York","5085, Van Zandt Road, Howlett Hill, City of Syracuse, Marcellus, Onondaga County, New York, 13215, United States",43.0185833,-76.2875935,5085 Van Zandt Rd,Onondaga,8000
+" Co Rt 26, West Monroe, New York","County Rt 37, Brewerton, Town of West Monroe, Oswego County, New York, 13029, United States",43.24846,-76.130188, Co Rt 26,West Monroe,65000
+"169 N Herman Av, Auburn, New York","169, North Herman Avenue, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.9396071,-76.5455685,169 N Herman Av,Auburn,23400
+"9088 Ashley Landing Dr, Clay, New York","9088, Ashley Landing Drive, Oak Orchard, Town of Clay, Onondaga County, New York, 13041, United States",43.2100765,-76.205041,9088 Ashley Landing Dr,Clay,85500
+"100 Highridge Pl, Onondaga, New York","100, Highridge Place, City of Syracuse, Onondaga County, New York, 13215, United States",43.0272583,-76.2001663,100 Highridge Pl,Onondaga,315000
+"656-60 Fellows Ave, Syracuse, New York","Fellows Avenue, University Neighborhood, Dewitt, Onondaga County, New York, 13210, United States",43.0327348,-76.1148275,656-60 Fellows Ave,Syracuse,35000
+" Feather Dr, LaFayette, New York","Feather Drive, Town of LaFayette, Onondaga County, New York, 13084, United States",42.870889,-76.10946, Feather Dr,LaFayette,13000
+"755 Kibby Rd, Lysander, New York","755, Kibby Road, Baird Corners, Town of Lysander, Onondaga County, New York, 13027, United States",43.2226077,-76.4495823,755 Kibby Rd,Lysander,382000
+"14 Jay Ln, Phoenix, New York","14, Jay Lane, Village of Phoenix, Town of Schroeppel, Oswego County, New York, 13135, United States",43.2317665,-76.29000918888207,14 Jay Ln,Phoenix,275000
+"225 Harriette Ave, Syracuse, New York","225, Harriette Avenue, Outer Comstock, City of Syracuse, Onondaga County, New York, 13210, United States",43.0233969,-76.1299004,225 Harriette Ave,Syracuse,151
+" Obrien Rd, Van Buren, New York","Obrien Road, Town of Van Buren, Onondaga County, New York, 13027, United States",43.115781,-76.299307, Obrien Rd,Van Buren,10000
+" West Lake Road, Fleming, New York","West Lake Road, Melrose Park, Town of Fleming, Aurelius, Cayuga County, New York, 13021, United States",42.898882,-76.548924, West Lake Road,Fleming,25000
+"11576 Mc Neeley Rd, Victory, New York","11576, Mc Neeley Road, Town of Cato, Cayuga County, New York, 13033, United States",43.1764905,-76.655524,11576 Mc Neeley Rd,Victory,315000
+"6817 Jamesville Grove Ln, LaFayette, New York","Jamesville Grove Lane, Town of LaFayette, Onondaga County, New York, 13078, United States",42.9668218,-76.0619527,6817 Jamesville Grove Ln,LaFayette,150000
+"0 Lake Moraine Rd, Madison (town), New York","Lake Moraine Road, Madison Center, Village of Hamilton, Town of Madison, Madison County, New York, 13346, United States",42.860406,-75.520099,0 Lake Moraine Rd,Madison (town),40000
+"0 State Route 31, Sullivan, New York","State Route 31, Oneida Lake Beach West, Town of Sullivan, Madison County, New York, United States",43.149188,-75.854366,0 State Route 31,Sullivan,38900
+"8321 Salt Springs Rd, Manlius (town), New York","8321, Salt Springs Road, Town of Manlius, Onondaga County, New York, 13104, United States",43.0291342,-75.9519843,8321 Salt Springs Rd,Manlius (town),115000
+"8263 West Loop Rd, Montezuma, New York","8263, West Loop Road, Village of Port Byron, Cayuga County, New York, 13140, United States",43.017373,-76.70347699999999,8263 West Loop Rd,Montezuma,36500
+"12360 Coleman Rd, Victory, New York","12360, Coleman Road, Town of Victory, Cayuga County, New York, 13143, United States",43.2153925,-76.65606600000001,12360 Coleman Rd,Victory,45000
+"210 Wall St, Syracuse, New York","210, Wall Street, Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0506551,-76.1728099,210 Wall St,Syracuse,4750
+"210 Wall St, Syracuse, New York","210, Wall Street, Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0506551,-76.1728099,210 Wall St,Syracuse,94375
+"7424 Palmcrest Rd, Cicero, New York","7424, Palmcrest Road, City of Syracuse, Onondaga County, New York, 13212, United States",43.12811765,-76.10224625536092,7424 Palmcrest Rd,Cicero,197000
+"Lot 2 Maple Road, Clay, New York","Maple Road, Rodger Corner, Town of Clay, Onondaga County, New York, 13041, United States",43.1616923,-76.1580098,Lot 2 Maple Road,Clay,40000
+"5721 Harness Hook Lane, Manlius (town), New York","5721, Harness Hook Lane, Town of Manlius, Onondaga County, New York, 13082, United States",43.0570002,-75.9223401,5721 Harness Hook Lane,Manlius (town),70000
+"7914 Ontario Ave, Cicero, New York","7914, Ontario Avenue, Lower South Bay, Town of Cicero, Onondaga County, New York, 13039, United States",43.1985818,-76.0587357,7914 Ontario Ave,Cicero,145000
+"3188 Samantha Dr, Lysander, New York","3188, Samantha Drive, Radisson, Town of Lysander, Onondaga County, New York, 13027, United States",43.176405413594175,-76.29240015940441,3188 Samantha Dr,Lysander,40000
+"Lot #38 Irwin Rd, Sterling, New York","Irwin Road, North Sterling, Town of Sterling, Cayuga County, New York, United States",43.391415,-76.6294,Lot #38 Irwin Rd,Sterling,14000
+"237 Kinne St, East Syracuse, New York","237, Kinne Street, Village of East Syracuse, Town of De Witt, Onondaga County, New York, 13057, United States",43.0695964,-76.0774373,237 Kinne St,East Syracuse,240000
+" O'Hara Rd, Redfield, New York","O Hara Road, Town of Redfield, Town of Williamstown, Oswego County, New York, United States",43.497911,-75.834871, O'Hara Rd,Redfield,68000
+"4722 Weller Hall Place, Clay, New York","4722, Weller Hall Place, Town of Clay, Onondaga County, New York, 13041, United States",43.17853451020408,-76.18509704081633,4722 Weller Hall Place,Clay,58750
+" Fyler Rd, Sullivan, New York","Fyler Road, North Chittenango, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.086744,-75.887793, Fyler Rd,Sullivan,35000
+" Fyler Rd, Sullivan, New York","Fyler Road, North Chittenango, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.086744,-75.887793, Fyler Rd,Sullivan,25000
+"766 Howell Rd, Conquest, New York","766, Howell Road, Village of Port Byron, Cayuga County, New York, 13140, United States",43.1386805,-76.688736,766 Howell Rd,Conquest,75000
+"766 Howell Rd, Conquest, New York","766, Howell Road, Village of Port Byron, Cayuga County, New York, 13140, United States",43.1386805,-76.688736,766 Howell Rd,Conquest,50000
+" Brandt Rd, Victory, New York","Brandt Road, Town of Victory, Cayuga County, New York, 13033, United States",43.211817,-76.604821, Brandt Rd,Victory,50000
+" Brandt Rd, Victory, New York","Brandt Road, Town of Victory, Cayuga County, New York, 13033, United States",43.211817,-76.604821, Brandt Rd,Victory,45000
+" Whitman Rd, Lincoln, New York","Whitman Road, Alene, Town of Lincoln, Madison County, New York, 13032, United States",43.015801,-75.710909, Whitman Rd,Lincoln,15000
+" Newton Road, Madison (town), New York","Newton Road, Town of DeRuyter, Madison County, New York, 13052, United States",42.773185,-75.891879, Newton Road,Madison (town),50000
+"5656 River Rock Dr, Elbridge (town), New York","5656, River Rock Drive, Town of Elbridge, Onondaga County, New York, 13060, United States",43.0414661,-76.4283606,5656 River Rock Dr,Elbridge (town),22000
+"107 Minoa Lakes Drive, Minoa, New York","107, Minoa Lakes Drive, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.06581657142857,-76.01103808163265,107 Minoa Lakes Drive,Minoa,70000
+"107 Minoa Lakes Drive, Minoa, New York","107, Minoa Lakes Drive, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.06581657142857,-76.01103808163265,107 Minoa Lakes Drive,Minoa,24000
+"166 Goodfellow Rd, Palermo, New York","166, Goodfellow Road, City of Fulton, Oswego County, New York, 13069, United States",43.3543132,-76.3011415,166 Goodfellow Rd,Palermo,74000
+"6417 Finish Line Trl, Cicero, New York","6417, Finish Line Trail, Town of Cicero, Onondaga County, New York, 13029, United States",43.1931029,-76.0875189,6417 Finish Line Trl,Cicero,47000
+"9539 Clarecastle Path, Cicero, New York","9539, Clarecastle Path, Brewerton, Town of Cicero, Onondaga County, New York, 13029, United States",43.2297161,-76.1487949,9539 Clarecastle Path,Cicero,43500
+" Berwick Rd S, Salina, New York","Berwick Road South, Lyncourt, Town of Salina, Onondaga County, New York, 13208, United States",43.083296,-76.13364, Berwick Rd S,Salina,8500
+"130 Genesee St, Skaneateles (village), New York","130, East Genesee Street, Village of Skaneateles, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.943207,-76.4205851,130 Genesee St,Skaneateles (village),6100000
+"204 Salisbury Rd, Syracuse, New York","204, Salisbury Road, City of Syracuse, Onondaga County, New York, 13219, United States",43.0423769,-76.1956226,204 Salisbury Rd,Syracuse,181450
+" Salt Rd, Constantia, New York","Salt Road, Town of Constantia, Oswego County, New York, 13044, United States",43.3046627,-75.9769399, Salt Rd,Constantia,40000
+"12172 Westbury Rd, Victory, New York","12172, Westbury Road, Town of Victory, Town of Butler, Cayuga County, New York, 13143, United States",43.2059602,-76.7077271,12172 Westbury Rd,Victory,36000
+"2627 Route 13, Cazenovia (town), New York","2627, State Route 13, New Woodstock, Town of Cazenovia, Madison County, New York, 13122, United States",42.8496499,-75.8633622,2627 Route 13,Cazenovia (town),70000
+"Lot #20 Westland Drive, Eaton, New York","Westland Drive, Pine Woods, Town of Eaton, Madison County, New York, 13310, United States",42.878483,-75.582557,Lot #20 Westland Drive,Eaton,50000
+"7461 Murray Dr, Cicero, New York","7461, Murray Drive, Town of Cicero, Onondaga County, New York, 13039, United States",43.17883972787502,-76.00759436909466,7461 Murray Dr,Cicero,525000
+" Austin Rd, Albion, New York","Austin Road, Town of Albion, Oswego County, New York, 13302, United States",43.484587,-75.978947, Austin Rd,Albion,28000
+" Oberon Dr, Genoa, New York","Oberon Drive, Town of Genoa, Venice, Cayuga County, New York, 13081, United States",42.671722,-76.657071, Oberon Dr,Genoa,203000
+" Superior Ave, Cicero, New York","Superior Avenue, Town of Cicero, Onondaga County, New York, 13039, United States",43.2010289,-76.0480347, Superior Ave,Cicero,60000
+" Thomas Road, Nelson, New York","Thomas Road, Town of Nelson, Madison County, New York, 13035, United States",42.9089432,-75.7995629, Thomas Road,Nelson,1000
+" Stagecoach Rd, Onondaga, New York","Stagecoach Road, Loomis Hill, Town of Onondaga, Marcellus, Onondaga County, New York, 13031, United States",43.016786,-76.23946, Stagecoach Rd,Onondaga,69900
+" Stacy Dr, Boylston, New York","Stacy Drive, Town of Boylston, Oswego County, New York, United States",43.625134,-75.971144, Stacy Dr,Boylston,15000
+" Baldwin Rd, Volney, New York","Baldwin Road, Drakes Corner, Town of Volney, Oswego County, New York, 13069, United States",43.367714,-76.355871, Baldwin Rd,Volney,51500
+" Marguerite Dr, Lenox, New York","Marguerite Drive, Town of Lenox, Madison County, New York, 13032, United States",43.068149,-75.7506925, Marguerite Dr,Lenox,52000
+"2902 Slate Hill Rd, Marcellus (town), New York","2902, Slate Hill Road, Town of Marcellus, Onondaga County, New York, 13110, United States",42.9125637,-76.3017846,2902 Slate Hill Rd,Marcellus (town),42000
+"1843 Woodmancy Rd, Otisco, New York","1843, Woodmancy Road, Town of Tully, Onondaga County, New York, 13159, United States",42.8609402,-76.180563,1843 Woodmancy Rd,Otisco,195000
+"83 Lake St, Skaneateles (village), New York","83, West Lake Street, Village of Skaneateles, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9389487,-76.4324228,83 Lake St,Skaneateles (village),3215000
+"202 Woodland Ave, Syracuse, New York","202, Woodland Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.02969653655301,-76.14374177846443,202 Woodland Ave,Syracuse,150000
+" Schilly Rd, Hastings, New York","Schilly Road, Town of Hastings, Oswego County, New York, 13036, United States",43.323923,-76.210743, Schilly Rd,Hastings,22500
+"182 Norton Rd, Sandy Creek (town), New York","182, Norton Road, Town of Sandy Creek, Oswego County, New York, 13145, United States",43.6473071264832,-76.13093154991475,182 Norton Rd,Sandy Creek (town),80000
+"2057 Wickwire Rd, Hamilton (town), New York","2057, Wickwire Road, Town of Hamilton, Madison County, New York, 13355, United States",42.8210691,-75.4481438,2057 Wickwire Rd,Hamilton (town),45000
+"130 Gettman Rd, Geddes, New York","130, Gettman Road, Lakeside, City of Syracuse, Town of Geddes, Onondaga County, New York, 13209, United States",43.1000662,-76.2544401,130 Gettman Rd,Geddes,20000
+"133 Giddings Trl, Lysander, New York","133, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1698532,-76.3590589,133 Giddings Trl,Lysander,479900
+"133 Giddings Trl, Lysander, New York","133, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1698532,-76.3590589,133 Giddings Trl,Lysander,54000
+" Curtis Rd, Onondaga, New York","Curtis Road, Navarino, Town of Onondaga, Marcellus, Onondaga County, New York, 13215, United States",42.939465,-76.265208, Curtis Rd,Onondaga,10
+" Gilbert Mills Rd, Volney, New York","Gilbert Mills Road, Town of Schroeppel, Town of Volney, Oswego County, New York, 13069, United States",43.31832,-76.324701, Gilbert Mills Rd,Volney,19008
+"10 Crescent Av, Auburn, New York","10, Crescent Avenue, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.9175728,-76.5516154,10 Crescent Av,Auburn,20000
+"5597 Muscovy Lane, Manlius (town), New York","Muscovy Lane, Town of Manlius, Onondaga County, New York, 13104, United States",42.997018,-75.940099,5597 Muscovy Lane,Manlius (town),150000
+"22 La Casse Rd, Mexico (town), New York","22, La Casse Road, Town of Parish, Town of Mexico, Albion, Oswego County, New York, 13131, United States",43.442818,-76.1536365,22 La Casse Rd,Mexico (town),15000
+" Cayuga St, Fair Haven, New York","Cayuga Street, North Fair Haven, Village of Fair Haven, Town of Sterling, Cayuga County, New York, 13156, United States",43.326938,-76.698531, Cayuga St,Fair Haven,28000
+"9665 Kenzie Grace Path, Clay, New York","Kenzie Grace Path, Town of Clay, Onondaga County, New York, 13029, United States",43.2375233,-76.1654552,9665 Kenzie Grace Path,Clay,60201
+"9665 Kenzie Grace Path, Clay, New York","Kenzie Grace Path, Town of Clay, Onondaga County, New York, 13029, United States",43.2375233,-76.1654552,9665 Kenzie Grace Path,Clay,60000
+"3036 Chillingham Way, Lysander, New York","3036, Chillingham Way, Town of Lysander, Onondaga County, New York, 13027, United States",43.1561244,-76.2960924,3036 Chillingham Way,Lysander,86000
+" Zahler Tract, Sandy Creek (town), New York","Zahler Tract, Town of Sandy Creek, Oswego County, New York, 13145, United States",43.637629,-76.159771, Zahler Tract,Sandy Creek (town),8000
+"Lot #45 Irwin Rd, Sterling, New York","Irwin Road, North Sterling, Town of Sterling, Cayuga County, New York, United States",43.391415,-76.6294,Lot #45 Irwin Rd,Sterling,14000
+" New Yorker Avenue, Lenox, New York","New Yorker Avenue, Town of Lenox, Madison County, New York, 13032, United States",43.064593,-75.761775, New Yorker Avenue,Lenox,7400
+"2365 Patterson Rd, Otisco, New York","2365, Patterson Road, Gamble Mill, Town of Otisco, Marcellus, Onondaga County, New York, 13110, United States",42.8859061,-76.2747728,2365 Patterson Rd,Otisco,425000
+"14039 Wilde Rd, Sterling, New York","14039, Wilde Road, Town of Sterling, Cayuga County, New York, 13111, United States",43.2964145,-76.6145803,14039 Wilde Rd,Sterling,25300
+"12657 Ira Station Rd, Victory, New York","12657, Ira Station Road, Town of Victory, Cayuga County, New York, 13111, United States",43.2284375,-76.6039955,12657 Ira Station Rd,Victory,58400
+"127 Giddings Trl, Lysander, New York","127, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1690914,-76.3590333,127 Giddings Trl,Lysander,54000
+"127 Giddings Trl, Lysander, New York","127, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.1690914,-76.3590333,127 Giddings Trl,Lysander,50000
+"4354 November Ln, Onondaga, New York","4354, November Lane, Town of Onondaga, Marcellus, Onondaga County, New York, 13215, United States",43.01472183333333,-76.21559475000001,4354 November Ln,Onondaga,740000
+" Stevens Rd, Otisco, New York","Stevens Road, Town of Otisco, Onondaga County, New York, 13159, United States",42.8208597,-76.2035701, Stevens Rd,Otisco,40000
+"4425 Winding Creek Rd, Pompey, New York","4425, Winding Creek Road, Buellville, Town of Manlius, Onondaga County, New York, 13104, United States",42.9775958,-75.9538716,4425 Winding Creek Rd,Pompey,629900
+"45055 34Th St, Constantia, New York","34th Street, Doris Park, Constantia CDP, Oswego County, New York, 13044, United States",43.247264,-76.018687,45055 34Th St,Constantia,33500
+" Lakeshore Rd, Cicero, New York","Lakeshore Road, Lower South Bay, Town of Cicero, Onondaga County, New York, 13039, United States",43.187726,-76.087167, Lakeshore Rd,Cicero,202500
+"9537 Clarecastle Path, Cicero, New York","9537, Clarecastle Path, Brewerton, Town of Cicero, Onondaga County, New York, 13029, United States",43.2294823,-76.1487752,9537 Clarecastle Path,Cicero,43500
+"14872 Hadcock Dr, Fair Haven, New York","14872, Hadcock Drive, Village of Fair Haven, Town of Sterling, Cayuga County, New York, 13156, United States",43.3323687,-76.7135935,14872 Hadcock Dr,Fair Haven,290000
+"5561 Rolling Meadows Way, Camillus (town), New York","5561, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0419291,-76.3294822,5561 Rolling Meadows Way,Camillus (town),443200
+" Watervale Rd, Pompey, New York","Watervale Road, Watervale, Town of Pompey, Onondaga County, New York, 13104, United States",42.950176,-75.98239, Watervale Rd,Pompey,62500
+"217 Kellogg St, Syracuse, New York","217, Kellogg Street, Near Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0384732,-76.1639413,217 Kellogg St,Syracuse,976
+"100 Lansing St, Auburn, New York","100, Lansing Street, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.940893,-76.55549049999999,100 Lansing St,Auburn,9900
+"397 Powers Rd, Genoa, New York","397, Powers Road, Atwaters, Town of Genoa, Venice, Cayuga County, New York, 13081, United States",42.6370004,-76.6529073,397 Powers Rd,Genoa,120000
+"104 Smokey Hollow Rd, Baldwinsville, New York","104, Smokey Hollow Road, Village of Baldwinsville, Town of Lysander, Onondaga County, New York, 13027, United States",43.169626,-76.3396691,104 Smokey Hollow Rd,Baldwinsville,150000
+"135 Baker Ave, Syracuse, New York","135, Baker Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0303838,-76.1440533,135 Baker Ave,Syracuse,150000
+"7109 Lakeshore Rd, Cicero, New York","7109, Lakeshore Road, Kraus Landing, Town of Cicero, Onondaga County, New York, 13039, United States",43.1908021,-76.0322073,7109 Lakeshore Rd,Cicero,95000
+"13805 Martville Rd, Sterling, New York","13805, Martville Road, Martville, Town of Sterling, Cayuga County, New York, 13111, United States",43.284927,-76.62528774222221,13805 Martville Rd,Sterling,43000
+"7632 Hunt Ln, Manlius (town), New York","7632, Hunt Lane, High Bridge, Town of Manlius, Onondaga County, New York, 13066, United States",43.0153962,-75.99858396418823,7632 Hunt Ln,Manlius (town),257000
+" Depot Rd, Sennett, New York","Depot Road, Town of Sennett, Brutus, Cayuga County, New York, 13153, United States",42.997391,-76.493221, Depot Rd,Sennett,10000
+" Route 92, Cazenovia (town), New York","State Route 13, New Woodstock, Town of Cazenovia, Madison County, New York, 13122, United States",42.850165,-75.862891, Route 92,Cazenovia (town),200000
+"422 Washington Ave, Oneida (city), New York","422, Washington Avenue, City of Oneida, Lincoln, Madison County, New York, 13421, United States",43.0904461,-75.6597426,422 Washington Ave,Oneida (city),157000
+"202 Shuart Ave, Syracuse, New York","202, Shuart Avenue, Lincoln Park, City of Syracuse, Onondaga County, New York, 13203, United States",43.0601389,-76.1278184,202 Shuart Ave,Syracuse,155000
+"207 Coral Avenue, Syracuse, New York","207, Coral Avenue, North Valley, City of Syracuse, Onondaga County, New York, 13207, United States",43.0091431,-76.1500224,207 Coral Avenue,Syracuse,151
+"207 Coral Avenue, Syracuse, New York","207, Coral Avenue, North Valley, City of Syracuse, Onondaga County, New York, 13207, United States",43.0091431,-76.1500224,207 Coral Avenue,Syracuse,151
+"6090 Newport Rd, Camillus (town), New York","6090, Newport Road, Newport, Town of Camillus, Onondaga County, New York, 13031, United States",43.0672428,-76.3223695,6090 Newport Rd,Camillus (town),30000
+" Jewett Rd, Skaneateles (town), New York","Jewett Road, Willow Glen, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.964044,-76.426482, Jewett Rd,Skaneateles (town),20000
+"336 Bangall Rd, Parish (town), New York","336, Bangall Road, Town of Parish, Albion, Oswego County, New York, 13131, United States",43.438007,-76.12381373399015,336 Bangall Rd,Parish (town),10000
+"799 Cowles Settlement Rd, Fabius (town), New York","799, Cowles Settlement Road, Town of Fabius, Onondaga County, New York, 13063, United States",42.807157,-75.9460664,799 Cowles Settlement Rd,Fabius (town),655000
+"857-859 Crow Hill Rd, Skaneateles (town), New York","Crow Hill Road, Mottville, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.9731088,-76.4443746,857-859 Crow Hill Rd,Skaneateles (town),715000
+" Van Buren Rd, Van Buren, New York","Van Buren Road, Edgewood Garden, Town of Camillus, Onondaga County, New York, 13027, United States",43.094088,-76.274711, Van Buren Rd,Van Buren,65000
+"3 Aurora St, Moravia (village), New York","3, Aurora Street, Village of Moravia, Town of Moravia, Venice, Cayuga County, New York, 13118, United States",42.7104147,-76.421809,3 Aurora St,Moravia (village),20000
+"3230 Webb Road, LaFayette, New York","3230, Webb Road, Town of LaFayette, Onondaga County, New York, 13084, United States",42.9253330101711,-76.12283202330408,3230 Webb Road,LaFayette,48000
+"228 Campbell Rd, Salina, New York","228, Campbell Road, Hinsdale, Mattydale, City of Syracuse, Onondaga County, New York, 13211, United States",43.1026696,-76.1389883,228 Campbell Rd,Salina,180000
+"516 Rich St, Syracuse, New York","516, Rich Street, City of Syracuse, Onondaga County, New York, 13207, United States",43.0292459,-76.1610327,516 Rich St,Syracuse,5000
+" Champlin Road, Summerhill, New York","Champlin Road, Town of Summerhill, Cayuga County, New York, 13092, United States",42.637847,-76.29611, Champlin Road,Summerhill,25880
+"7768 Longbow Way, Lysander, New York","7768, Longbow Way, Town of Lysander, Onondaga County, New York, 13027, United States",43.14398440104419,-76.25898928903595,7768 Longbow Way,Lysander,130000
+"2935 Smith Rd, Marcellus (town), New York","2935, Smith Road, Town of Marcellus, Onondaga County, New York, 13110, United States",42.9134737,-76.2843896,2935 Smith Rd,Marcellus (town),220000
+"371 River Rd, Oswego (city), New York","River Road, City of Fulton, Oswego County, New York, 13069, United States",43.336911,-76.414907,371 River Rd,Oswego (city),700000
+"6413 Finish Line Trl, Cicero, New York","6413, Finish Line Trail, Town of Cicero, Onondaga County, New York, 13029, United States",43.1931344,-76.087176,6413 Finish Line Trl,Cicero,47000
+"2001-2005 Coon Hill Rd, Skaneateles (town), New York","Coon Hill Road, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.917831,-76.381987,2001-2005 Coon Hill Rd,Skaneateles (town),687500
+"301 Willow St, Oneida (city), New York","301, North Willow Street, City of Oneida, Lenox, Madison County, New York, 13421, United States",43.0987022,-75.6621391,301 Willow St,Oneida (city),305000
+"4539 Hollyshire Way, Clay, New York","Hollyshire Way, Town of Clay, Onondaga County, New York, 13041, United States",43.2024673,-76.1991162,4539 Hollyshire Way,Clay,67500
+"1438 Berwyn Rd, Fabius (town), New York","1438, Berwyn Road, Berwyn, Town of Fabius, Onondaga County, New York, 13084, United States",42.8408488,-76.0388138,1438 Berwyn Rd,Fabius (town),13000
+"6941 River Rd, Van Buren, New York","6941, River Road, Town of Van Buren, Onondaga County, New York, 13112, United States",43.1063337,-76.4259139,6941 River Rd,Van Buren,22000
+" Old State Rd, Amboy, New York","Old State Road, Mud Hill, Town of Amboy, Oswego County, New York, 13493, United States",43.395902,-75.920667, Old State Rd,Amboy,35000
+"3427 Tall Tree Lane, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3427 Tall Tree Lane,Lysander,490000
+"3427 Tall Tree Lane, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3427 Tall Tree Lane,Lysander,80000
+"3004 Verona Ct, Lysander, New York","3004, Verona Court, Radisson, Town of Lysander, Onondaga County, New York, 13027, United States",43.172181666526456,-76.29234268278927,3004 Verona Ct,Lysander,377900
+" Paddy Lake Rd, Volney, New York","Paddy Lake Road, Town of Volney, Oswego County, New York, United States",43.406313,-76.383399, Paddy Lake Rd,Volney,45000
+"5695 Ike Dixon Rd, Camillus (town), New York","5695, Ike Dixon Road, Town of Camillus, Onondaga County, New York, 13031, United States",43.0473181,-76.3404746,5695 Ike Dixon Rd,Camillus (town),55000
+"5695 Ike Dixon Rd, Camillus (town), New York","5695, Ike Dixon Road, Town of Camillus, Onondaga County, New York, 13031, United States",43.0473181,-76.3404746,5695 Ike Dixon Rd,Camillus (town),50000
+" Lower Burma Rd, Spafford, New York","Lower Burma Road, Town of Spafford, Onondaga County, New York, 13110, United States",42.872953,-76.305687, Lower Burma Rd,Spafford,85000
+"828 Rider St, Parish (village), New York","828, Rider Street, Village of Parish, Town of Parish, Albion, Oswego County, New York, 13131, United States",43.4052935,-76.1249213,828 Rider St,Parish (village),12000
+"1344 Lick St, Summerhill, New York","1344, Lick Street, Town of Moravia, Cayuga County, New York, 13118, United States",42.683413,-76.34431157980771,1344 Lick St,Summerhill,35000
+" Academy St, Mexico (village), New York","Academy Street, Village of Mexico, Town of Mexico, Oswego County, New York, 13114, United States",43.4668317,-76.2375337, Academy St,Mexico (village),25000
+" Foxwood Ave, Volney, New York","Foxwood Avenue, Town of Volney, Oswego County, New York, 13069, United States",43.32,-76.393695, Foxwood Ave,Volney,26000
+" Route 31, Sullivan, New York","Kalin Weber Road, Town of Lumberland, Sullivan County, New York, 12737, United States",41.484488,-74.784667, Route 31,Sullivan,31000
+"3779 Malibu Hills Drive, Camillus (town), New York","3779, Malibu Hills Drive, City of Syracuse, Onondaga County, New York, 13209, United States",43.06038,-76.2512566,3779 Malibu Hills Drive,Camillus (town),65000
+"9129 Whistling Swan Ln, Manlius (town), New York","9129, Whistling Swan Lane, Town of Manlius, Onondaga County, New York, 13104, United States",42.9900346,-75.9377143,9129 Whistling Swan Ln,Manlius (town),60000
+"4345 Howlett Hill Rd, Onondaga, New York","4345, Howlett Hill Road, Loomis Hill, Town of Onondaga, Marcellus, Onondaga County, New York, 13215, United States",43.01256595955148,-76.2133614246488,4345 Howlett Hill Rd,Onondaga,93600
+"22 E Catfish Dr, New Haven, New York","22, East Catfish Drive, Hickory Grove, Town of New Haven, Oswego County, New York, 13126, United States",43.5114598,-76.3192812,22 E Catfish Dr,New Haven,6000
+"25 Stone Ridge Dr, Scriba, New York","25, Stone Ridge Drive, Lansing, Town of Scriba, Oswego County, New York, 13126, United States",43.4468397,-76.456883,25 Stone Ridge Dr,Scriba,33000
+"4180 Lafayette Rd, Onondaga, New York","4180, Lafayette Road, Town of Onondaga, Onondaga County, New York, 13078, United States",42.9731771,-76.1074231,4180 Lafayette Rd,Onondaga,249000
+"4153 Oran Gulf Rd, Pompey, New York","4153, Oran Gulf Road, Oran, Town of Manlius, Onondaga County, New York, 13104, United States",42.9725186,-75.937852,4153 Oran Gulf Rd,Pompey,70000
+"4421 Watervale Rd, Pompey, New York","4421, Watervale Road, Town of Manlius, Onondaga County, New York, 13104, United States",42.9861443,-75.9933048,4421 Watervale Rd,Pompey,50000
+" Giles Rd, Skaneateles (town), New York","Giles Road, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.897374,-76.440488, Giles Rd,Skaneateles (town),250000
+"371 Fourth St, Fulton, New York","371, Fourth Street, Village of Northville, Town of Northampton, Fulton County, New York, 12134, United States",43.228699588235294,-74.17873217647059,371 Fourth St,Fulton,120000
+" Route 128B, Madison (town), New York","State Route 80, Town of Georgetown, Madison County, New York, 13072, United States",42.7455448,-75.7433141, Route 128B,Madison (town),120000
+"377 Blythe Rd, Hannibal (town), New York","377, Blythe Road, Town of Hannibal, Oswego County, New York, 13074, United States",43.345849,-76.60941530182927,377 Blythe Rd,Hannibal (town),250000
+" Flat Rock Rd, Camillus (town), New York","Flat Rock Road, Sweets Crossing, Town of Camillus, Onondaga County, New York, 13060, United States",43.021033,-76.363515, Flat Rock Rd,Camillus (town),20000
+" Boca Raton Way, Onondaga, New York","Boca Raton Way, Town of Onondaga, Onondaga County, New York, 13207, United States",43.0234499,-76.1838457, Boca Raton Way,Onondaga,118000
+"5742 Bull Hill Rd, Onondaga, New York","5742, Bull Hill Road, Town of Onondaga, Onondaga County, New York, 13084, United States",42.9486247,-76.1243802,5742 Bull Hill Rd,Onondaga,65000
+"373 New Scriba Dr, Orwell, New York","373, New Scriba Drive, New Scriba, Town of Richland, Oswego County, New York, 13144, United States",43.6066815,-75.9392234813123,373 New Scriba Dr,Orwell,15000
+" Creek Road, Sullivan, New York","Creek Road, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.046544,-75.839091, Creek Road,Sullivan,50000
+"3366 Longview Terrace, Lysander, New York","Longview Terrace, Radisson, Town of Lysander, Onondaga County, New York, 13135, United States",43.2023512,-76.2840647,3366 Longview Terrace,Lysander,80000
+" Poverty Ln, Sempronius, New York","Poverty Lane, Town of Sempronius, Town of Summerhill, Cayuga County, New York, United States",42.697778,-76.288724, Poverty Ln,Sempronius,13000
+" Poverty Ln, Sempronius, New York","Poverty Lane, Town of Sempronius, Town of Summerhill, Cayuga County, New York, United States",42.697778,-76.288724, Poverty Ln,Sempronius,116136
+"1479 Lamoy Road, Sullivan, New York","1479, Lamoy Road, Town of Sullivan, Madison County, New York, 13037, United States",43.0992377,-75.8956422,1479 Lamoy Road,Sullivan,25000
+"59 Brook Hollow Dr, Owasco, New York","59, Brook Hollow Drive, City of Auburn, Cayuga County, New York, 13021, United States",42.8615925,-76.50932296683341,59 Brook Hollow Dr,Owasco,757050
+"4474 Weller Hall Place, Clay, New York","Weller Hall Place, Town of Clay, Onondaga County, New York, 13041, United States",43.1784843,-76.1844928,4474 Weller Hall Place,Clay,58750
+"7349 Buckley Rd, Clay, New York","7349, Buckley Road, Town of Clay, Onondaga County, New York, 13212, United States",43.12748047410093,-76.16036208034068,7349 Buckley Rd,Clay,55000
+"4310 Tiger Lily Path, Clay, New York","Tiger Lily Path, Town of Clay, Onondaga County, New York, 13090, United States",43.1581507,-76.2092185,4310 Tiger Lily Path,Clay,78500
+"4305 Tiger Lily Path, Clay, New York","Tiger Lily Path, Town of Clay, Onondaga County, New York, 13090, United States",43.1581507,-76.2092185,4305 Tiger Lily Path,Clay,73500
+"5857 Powder Horn Ln., Onondaga, New York","Powder Horn Lane, Town of Onondaga, Onondaga County, New York, 13078, United States",42.9850579,-76.1161856,5857 Powder Horn Ln.,Onondaga,150000
+" Strong Rd, Tully (town), New York","Strong Road, Vesper, Town of Tully, Onondaga County, New York, 13159, United States",42.813601,-76.179265, Strong Rd,Tully (town),25000
+"221 Adams Road, Sullivan, New York","221, Adams Road, Rock Hill, Town of Thompson, Sullivan County, New York, 12775, United States",41.62938248723589,-74.58586276225304,221 Adams Road,Sullivan,18000
+"4737 Weller Hall Place, Clay, New York","4737, Weller Hall Place, Town of Clay, Onondaga County, New York, 13041, United States",43.17853894897959,-76.18500979591838,4737 Weller Hall Place,Clay,58750
+" Us Rt 11, Hastings, New York","North Broadway, Village of Hastings-on-Hudson, Town of Greenburgh, Westchester County, New York, 10706, United States",40.9905713,-73.8782854, Us Rt 11,Hastings,70000
+" Us Rt 11, Hastings, New York","North Broadway, Village of Hastings-on-Hudson, Town of Greenburgh, Westchester County, New York, 10706, United States",40.9905713,-73.8782854, Us Rt 11,Hastings,3993
+"1081 Nottingham Rd, DeWitt, New York","1081, Nottingham Road, Town of De Witt, Onondaga County, New York, 13078, United States",43.015663450000005,-76.096477684261,1081 Nottingham Rd,DeWitt,55000
+"3753 Malibu Hills Drive, Camillus (town), New York","3753, Malibu Hills Drive, City of Syracuse, Onondaga County, New York, 13209, United States",43.0596477,-76.2523284,3753 Malibu Hills Drive,Camillus (town),70000
+"142 Giddings Trail, Lysander, New York","142, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.17394514285714,-76.35447257142857,142 Giddings Trail,Lysander,54000
+"142 Giddings Trail, Lysander, New York","142, Giddings Trail, Town of Lysander, Onondaga County, New York, 13027, United States",43.17394514285714,-76.35447257142857,142 Giddings Trail,Lysander,50000
+"4350 Outlook Dr, Onondaga, New York","4350, Outlook Drive, City of Syracuse, Onondaga County, New York, 13215, United States",42.9821348,-76.1719359,4350 Outlook Dr,Onondaga,50000
+" Punkin Hook Dr, Sandy Creek (town), New York","Punkin Hook Drive, Town of Sandy Creek, Oswego County, New York, 13145, United States",43.640819,-76.14633, Punkin Hook Dr,Sandy Creek (town),80000
+"3364 Longview Ter, Lysander, New York","Longview Terrace, Radisson, Town of Lysander, Onondaga County, New York, 13135, United States",43.2023512,-76.2840647,3364 Longview Ter,Lysander,515000
+" Dietrich Rd, Volney, New York","Dietrich Road, Town of Volney, Oswego County, New York, 13126, United States",43.377721,-76.411463, Dietrich Rd,Volney,11600
+" Dietrich Rd, Volney, New York","Dietrich Road, Town of Volney, Oswego County, New York, 13126, United States",43.377721,-76.411463, Dietrich Rd,Volney,8400
+" Mc Alpine St, Salina, New York","Mc Alpine Street, Mattydale, Town of Salina, Onondaga County, New York, 13211, United States",43.095161,-76.156171, Mc Alpine St,Salina,7200
+"143 Baker Ave, Syracuse, New York","143, Baker Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0301527,-76.1439653,143 Baker Ave,Syracuse,150000
+"2740 Sand Beach Rd, Fleming, New York","2740, Sand Beach Road, Sherlock Corners, Melrose Park, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.8979186,-76.5587798,2740 Sand Beach Rd,Fleming,27000
+"553 Oakwood Ave, Syracuse, New York","553, Oakwood Avenue, Southwest, City of Syracuse, Onondaga County, New York, 13205, United States",43.0325211,-76.1442982,553 Oakwood Ave,Syracuse,86
+"156 Albany St, Oswego (city), New York","156, West Albany Street, City of Oswego, Oswego County, New York, 13126, United States",43.4482315,-76.52157650000001,156 Albany St,Oswego (city),3000
+" Roberts St, Lenox, New York","Roberts Street, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.088699,-75.733768, Roberts St,Lenox,40000
+" Slosson Rd, West Monroe, New York","Slosson Road, Union Settlement, Town of West Monroe, Oswego County, New York, 13167, United States",43.3106954,-76.0379681, Slosson Rd,West Monroe,25000
+"5252 Bennetts Corners Rd, Camillus (town), New York","5252, Bennetts Corners Road, Oswego Bitter, Town of Elbridge, Onondaga County, New York, 13060, United States",43.0251382,-76.3608383,5252 Bennetts Corners Rd,Camillus (town),57000
+"105 Drexler Ave, Salina, New York","105, Drexler Avenue South, Galeville, Town of Salina, Onondaga County, New York, 13088, United States",43.0900682,-76.17219829932974,105 Drexler Ave,Salina,235000
+" Olde Maple Ave, Volney, New York","Olde Maple Avenue, Town of Volney, Oswego County, New York, 13069, United States",43.315365,-76.389083, Olde Maple Ave,Volney,26150
+" Earlville Rd, Hamilton (town), New York","Earlville Road, Town of Hamilton, Madison County, New York, 13332, United States",42.746036,-75.531062, Earlville Rd,Hamilton (town),155000
+"4664 Wetzel Rd, Clay, New York","4664, Wetzel Road, Town of Clay, Onondaga County, New York, 13090, United States",43.1503455,-76.1925707,4664 Wetzel Rd,Clay,65000
+" Eleventh St, Fulton, New York","West Eleventh Avenue, Ward 6, City of Gloversville, Fulton County, New York, 12078, United States",43.0637599,-74.3491552, Eleventh St,Fulton,45000
+" Jordan Rd, Elbridge (town), New York","Jordan Road, Village of Elbridge, Town of Elbridge, Onondaga County, New York, 13060, United States",43.026308,-76.446272, Jordan Rd,Elbridge (town),140000
+"2234 Gidran Dr, Sullivan, New York","2234, Gidran Drive, Town of Sullivan, Madison County, New York, 13037, United States",43.0535787,-75.907024,2234 Gidran Dr,Sullivan,35000
+"122 Memphis St, Salina, New York","122, Memphis Street, Village of Liverpool, Town of Salina, Onondaga County, New York, 13088, United States",43.1088837,-76.202983,122 Memphis St,Salina,38000
+"214 Woodland Ave, Syracuse, New York","214, Woodland Avenue, Brighton, City of Syracuse, Onondaga County, New York, 13205, United States",43.0296575,-76.1432458,214 Woodland Ave,Syracuse,150000
+"105 Lake Forest Dr, Minoa, New York","105, Lake Forest Drive, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.0690252,-76.0145004,105 Lake Forest Dr,Minoa,45000
+"1170 Hard Point Rd, Conquest, New York","1170, Hard Point Road, Hard Point, Village of Port Byron, Cayuga County, New York, 13140, United States",43.0887213,-76.6627496,1170 Hard Point Rd,Conquest,5000
+"8789 Dinglehole Rd, Lysander, New York","8789, Dinglehole Road, Hortontown, Town of Lysander, Onondaga County, New York, 13027, United States",43.195561,-76.3767227,8789 Dinglehole Rd,Lysander,375000
+" Harbor Brook Dr, Scriba, New York","Harbor Brook Drive, Harbor Brook Sites, Town of Scriba, Oswego County, New York, 13126, United States",43.446812,-76.473385, Harbor Brook Dr,Scriba,129900
+"2005 Rubicon Rd, Lysander, New York","2005, Rubicon Road, Town of Lysander, Onondaga County, New York, 13027, United States",43.16723910204082,-76.37355887755102,2005 Rubicon Rd,Lysander,85000
+" Eagle Village Rd, Manlius (town), New York","North Eagle Village Road, Eagle Village, Town of Manlius, Onondaga County, New York, 13104, United States",43.019328,-75.955281, Eagle Village Rd,Manlius (town),130000
+"437 Fox Rd, Redfield, New York","437, Fox Road, Town of Redfield, Town of Williamstown, Oswego County, New York, 13493, United States",43.5188365,-75.7875818,437 Fox Rd,Redfield,115000
+"4538 Hollyshire Way, Clay, New York","Hollyshire Way, Town of Clay, Onondaga County, New York, 13041, United States",43.2024673,-76.1991162,4538 Hollyshire Way,Clay,78500
+"3118 Cold Springs Rd, Lysander, New York","3118, Cold Springs Road, Town of Lysander, Onondaga County, New York, 13027, United States",43.14902085,-76.2945738,3118 Cold Springs Rd,Lysander,85000
+"8861 Shellman Dr, Cicero, New York","8861, Shellman Drive, Lower South Bay, Town of Cicero, Onondaga County, New York, 13039, United States",43.199058513217615,-76.07036862134957,8861 Shellman Dr,Cicero,1150000
+"9112 Whistling Swan Ln, Manlius (town), New York","9112, Whistling Swan Lane, Town of Manlius, Onondaga County, New York, 13104, United States",42.9923371,-75.9387253,9112 Whistling Swan Ln,Manlius (town),90000
+"1860 Lake Rd, Skaneateles (town), New York","1860, West Lake Road, Mandana, Town of Skaneateles, Onondaga County, New York, 13152, United States",42.8616741,-76.3997265,1860 Lake Rd,Skaneateles (town),1800000
+"45118 Havens Av, Auburn, New York","Havens Avenue, Melrose Park, City of Auburn, Aurelius, Cayuga County, New York, 13021, United States",42.926644,-76.545943,45118 Havens Av,Auburn,159900
+"1900 Patterson Rd, Otisco, New York","1900, Patterson Road, Gamble Mill, Town of Otisco, Marcellus, Onondaga County, New York, 13110, United States",42.8634711,-76.2647561,1900 Patterson Rd,Otisco,304900
+" Meridan Ave, Minetto, New York","Meridan Avenue, Town of Minetto, Oswego County, New York, 13126, United States",43.407096,-76.479823, Meridan Ave,Minetto,10000
+"104 Graves St, Syracuse, New York","104, Graves Street, Near Northeast, City of Syracuse, Onondaga County, New York, 13203, United States",43.0611415,-76.1419472,104 Graves St,Syracuse,151
+"526-28 Richmond Ave, Syracuse, New York","Richmond Avenue, Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.050214,-76.17301,526-28 Richmond Ave,Syracuse,151
+"220-22 Burt St, Syracuse, New York","Burt Street, University Hill, City of Syracuse, Onondaga County, New York, 13202, United States",43.038431,-76.143138,220-22 Burt St,Syracuse,60
+"8824 Brewerton Rd, Cicero, New York","8824, Brewerton Road, Brewerton, Town of Cicero, Onondaga County, New York, 13029, United States",43.1967188,-76.1269164,8824 Brewerton Rd,Cicero,73000
+" Genesee  St, Chittenango, New York","Genesee Street, Village of Chittenango, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.048796,-75.865933, Genesee  St,Chittenango,40000
+"7623 River Rd, Lysander, New York","7623, River Road, Cold Springs, Town of Lysander, Onondaga County, New York, 13027, United States",43.1394256,-76.257371,7623 River Rd,Lysander,30000
+"246 Paradise Rd, Palermo, New York","246, Paradise Road, Catfish Corners, Town of Palermo, Oswego County, New York, 13036, United States",43.3854129,-76.2069366,246 Paradise Rd,Palermo,75000
+"4882 Silver Street Rd, Fleming, New York","4882, Silver Street Road, City of Auburn, Scipio, Cayuga County, New York, 13021, United States",42.8542485,-76.560679,4882 Silver Street Rd,Fleming,325000
+"3372 Longview Terrace, Lysander, New York","Longview Terrace, Radisson, Town of Lysander, Onondaga County, New York, 13135, United States",43.2023512,-76.2840647,3372 Longview Terrace,Lysander,80000
+" Royalty Ln, Granby, New York","Royalty Lane, Town of Granby, Oswego County, New York, 13069, United States",43.331797,-76.449957, Royalty Ln,Granby,35000
+"452 Canal St, Canastota, New York","Canal Street, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.079488,-75.751948,452 Canal St,Canastota,12500
+" Gulf Rd, Pompey, New York","Gulf Road, Dennis Farms, Town of Pompey, Onondaga County, New York, 13104, United States",42.908763,-75.934428, Gulf Rd,Pompey,36800
+" Lebanon Center Rd, Lebanon, New York","Lebanon Center Road, Lebanon Center, Town of Lebanon, Madison County, New York, 13332, United States",42.784437,-75.606294, Lebanon Center Rd,Lebanon,169000
+"4074 Mercun Dr, Onondaga, New York","4074, Mercun Drive, Town of Onondaga, Onondaga County, New York, 13078, United States",42.968484,-76.1215569,4074 Mercun Dr,Onondaga,18000
+"3476 Long Shadow Dr, Lysander, New York","3476, Long Shadow Drive, Town of Lysander, Onondaga County, New York, 13027, United States",43.16722448148607,-76.2719113932007,3476 Long Shadow Dr,Lysander,607850
+" Velasko Rd, Onondaga, New York","Velasko Road, Skunk City, City of Syracuse, Onondaga County, New York, 13207, United States",43.0331864,-76.187278, Velasko Rd,Onondaga,48000
+"4006 Oran Gulf Rd, Pompey, New York","4006, Oran Gulf Road, Dennis Farms, Town of Manlius, Onondaga County, New York, 13104, United States",42.9641152,-75.9379881,4006 Oran Gulf Rd,Pompey,205000
+"149 Bridge St, Oswego (city), New York","149, East Bridge Street, City of Oswego, Oswego County, New York, 13126, United States",43.4600696,-76.5000209,149 Bridge St,Oswego (city),8000
+"1601 Grassy Lane Road, Cazenovia (town), New York","1601, Grassy Lane Road, Town of Cazenovia, Madison County, New York, 13035, United States",42.9252766,-75.8921329,1601 Grassy Lane Road,Cazenovia (town),130000
+"5570 Rolling Meadows Way, Camillus (town), New York","5570, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0430171,-76.3290356,5570 Rolling Meadows Way,Camillus (town),399450
+"111 East Ave, East Syracuse, New York","111, East Avenue, Village of East Syracuse, Town of De Witt, Onondaga County, New York, 13057, United States",43.0664014,-76.0780424,111 East Ave,East Syracuse,150000
+" Dublin Rd, Marcellus (town), New York","Dublin Road, Town of Marcellus, Onondaga County, New York, 13108, United States",42.988217,-76.33275, Dublin Rd,Marcellus (town),2000
+"412 Oswego St, Syracuse, New York","412, Oswego Street, Near Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0435481,-76.1642552,412 Oswego St,Syracuse,1200
+" Coulter Cove Rd, Sullivan, New York","Coulter Cove Road, Town of Sullivan, Madison County, New York, United States",43.158484,-75.831079, Coulter Cove Rd,Sullivan,148500
+" Oran Delphi Rd, Pompey, New York","Oran Delphi Road, Oran, Town of Pompey, Onondaga County, New York, 13104, United States",42.974472,-75.934013, Oran Delphi Rd,Pompey,28150
+"433 Gaylord Ln, Tully (town), New York","433, Gaylord Lane, Tully Center, Town of Tully, Onondaga County, New York, 13159, United States",42.7923213,-76.1302326,433 Gaylord Ln,Tully (town),165000
+" Towsley Rd, Albion, New York","Towsley Road, Town of Albion, Oswego County, New York, 13142, United States",43.518458,-76.082796, Towsley Rd,Albion,27000
+"10 Academy St, Mexico (village), New York","10, Academy Street, Village of Mexico, Town of Mexico, Oswego County, New York, 13114, United States",43.460593,-76.2362664,10 Academy St,Mexico (village),30000
+"1633 Grassy Lane Rd, Cazenovia (town), New York","1633, Grassy Lane Road, Town of Cazenovia, Madison County, New York, 13035, United States",42.92503323253048,-75.89059100744905,1633 Grassy Lane Rd,Cazenovia (town),30000
+" Tuscarora Rd, Chittenango, New York","Tuscarora Road, Village of Chittenango, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.054026,-75.867178, Tuscarora Rd,Chittenango,35000
+"4734 Weller Hall Place, Clay, New York","4734, Weller Hall Place, Town of Clay, Onondaga County, New York, 13041, United States",43.17853806122449,-76.18502724489797,4734 Weller Hall Place,Clay,58750
+"104 & 106 Minoa Lakes Drive, Minoa, New York","Minoa Lakes Drive, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.0660518,-76.0110458,104 & 106 Minoa Lakes Drive,Minoa,120000
+"104 & 106 Minoa Lakes Drive, Minoa, New York","Minoa Lakes Drive, Village of Minoa, Town of Manlius, Onondaga County, New York, 13116, United States",43.0660518,-76.0110458,104 & 106 Minoa Lakes Drive,Minoa,48000
+" Snell Rd, Lenox, New York","Snell Road, Town of Lenox, Madison County, New York, 83032, United States",43.162763,-75.782185, Snell Rd,Lenox,44666
+" Snell Rd, Lenox, New York","Snell Road, Town of Lenox, Madison County, New York, 83032, United States",43.162763,-75.782185, Snell Rd,Lenox,22333
+" Snell Rd, Lenox, New York","Snell Road, Town of Lenox, Madison County, New York, 83032, United States",43.162763,-75.782185, Snell Rd,Lenox,15000
+"2330 W Genesee Rd, Lysander, New York","2330, West Genesee Road, Village of Baldwinsville, Town of Lysander, Onondaga County, New York, 13027, United States",43.1623876,-76.3455349,2330 W Genesee Rd,Lysander,75000
+"2338 W Genesee Rd, Lysander, New York","2338, West Genesee Road, Village of Baldwinsville, Town of Lysander, Onondaga County, New York, 13027, United States",43.1623724,-76.3452794,2338 W Genesee Rd,Lysander,50000
+"133 Riverside Pointe Dr, Albion, New York","133, Riverside Pointe Drive, Town of Albion, Oswego County, New York, 13142, United States",43.5385198,-76.0694643,133 Riverside Pointe Dr,Albion,22000
+"1108 Morgan Rd, Lysander, New York","1108, Morgan Road, Jacks Reef, Town of Lysander, Onondaga County, New York, 13112, United States",43.0977436,-76.4260125,1108 Morgan Rd,Lysander,85500
+"114 Beley Ave, Salina, New York","114, Beley Avenue, Hinsdale, Mattydale, City of Syracuse, Onondaga County, New York, 13211, United States",43.1001129,-76.1431896,114 Beley Ave,Salina,175000
+"146 Russell Rd, Granby, New York","146, Russell Road, City of Fulton, Oswego County, New York, 13069, United States",43.2606185,-76.44571914648188,146 Russell Rd,Granby,40000
+"120 Snell Terr, Syracuse, New York","120, Snell Terrace, South Valley, City of Syracuse, Onondaga County, New York, 13205, United States",42.9990222,-76.1362183,120 Snell Terr,Syracuse,6500
+" Pauline Dr, Chittenango, New York","Pauline Drive, Village of Chittenango, Town of Sullivan, Lenox, Madison County, New York, 13037, United States",43.054164,-75.876538, Pauline Dr,Chittenango,60000
+"7776 Longbow Way, Lysander, New York","7776, Longbow Way, Town of Lysander, Onondaga County, New York, 13027, United States",43.14399147885997,-76.25884391638144,7776 Longbow Way,Lysander,130000
+"3247 Route 26, Eaton, New York","3247, State Route 26, West Eaton, Town of Eaton, Madison County, New York, 13334, United States",42.8540766,-75.6607707,3247 Route 26,Eaton,6000
+"5542 Rolling Meadows Way, Camillus (town), New York","5542, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0410297,-76.3274521,5542 Rolling Meadows Way,Camillus (town),400000
+"5542 Rolling Meadows Way, Camillus (town), New York","5542, Rolling Meadows Way, Town of Camillus, Onondaga County, New York, 13031, United States",43.0410297,-76.3274521,5542 Rolling Meadows Way,Camillus (town),400000
+"1491 Genesee St, Skaneateles (town), New York","West Genesee Street, Village of Skaneateles, Town of Skaneateles, Marcellus, Onondaga County, New York, 13152, United States",42.9448056,-76.4351965,1491 Genesee St,Skaneateles (town),665000
+" Willowdale Rd, Spafford, New York","Willowdale Road, Town of Spafford, Onondaga County, New York, United States",42.813563,-76.252494, Willowdale Rd,Spafford,55000
+"7732 Seneca Beach Dr, Van Buren, New York","7732, Seneca Beach Drive, Town of Van Buren, Onondaga County, New York, 13027, United States",43.1452093,-76.3143562,7732 Seneca Beach Dr,Van Buren,27000
+" Tall Tree Ln, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393, Tall Tree Ln,Lysander,65000
+"546-48 Oakwood Ave, Syracuse, New York","Oakwood Avenue, Southwest, City of Syracuse, Onondaga County, New York, 13205, United States",43.0356598,-76.1454064,546-48 Oakwood Ave,Syracuse,86
+"3044 Chillingham Way, Lysander, New York","3044, Chillingham Way, Town of Lysander, Onondaga County, New York, 13027, United States",43.1557741,-76.2951042,3044 Chillingham Way,Lysander,403765
+"9523 Brewerton Rd, Cicero, New York","9523, Brewerton Road, Brewerton, Town of Cicero, Onondaga County, New York, 13029, United States",43.2304016,-76.1396033,9523 Brewerton Rd,Cicero,235000
+"9613 Kenzie Grace Path, Clay, New York","Kenzie Grace Path, Town of Clay, Onondaga County, New York, 13029, United States",43.2375233,-76.1654552,9613 Kenzie Grace Path,Clay,73500
+"3845 Hallston Dr, Clay, New York","Hallston Drive, Town of Clay, Onondaga County, New York, 13090, United States",43.1924639,-76.2455465,3845 Hallston Dr,Clay,45000
+" Pratt Dr, Granby, New York","Pratt Drive, Town of Granby, Oswego County, New York, 13126, United States",43.354946,-76.486077, Pratt Dr,Granby,17000
+"435 Boscobel Ln, Niles, New York","435, Boscobel Lane, Town of Moravia, Cayuga County, New York, 13118, United States",42.8045364,-76.4883727,435 Boscobel Ln,Niles,15000
+"4663 Wetzel Rd, Clay, New York","4663, Wetzel Road, Town of Clay, Onondaga County, New York, 13090, United States",43.1511041,-76.1926585,4663 Wetzel Rd,Clay,140000
+" Case Hill Rd, Otisco, New York","Case Hill Road, Maple Grove, Town of Otisco, Onondaga County, New York, 13084, United States",42.8958024,-76.1849487, Case Hill Rd,Otisco,35000
+" Hidden Falls Rd, Tully (town), New York","Hidden Falls Road, Town of Tully, Onondaga County, New York, 13159, United States",42.812987,-76.159611, Hidden Falls Rd,Tully (town),17500
+"3200 Bellevue Ave, Onondaga, New York","3200, Bellevue Avenue, Taunton, City of Syracuse, Marcellus, Onondaga County, New York, 13219, United States",43.0255957,-76.2093759,3200 Bellevue Ave,Onondaga,120000
+"2363 Warners Rd, Van Buren, New York","2363, Warners Road, Town of Van Buren, Onondaga County, New York, 13164, United States",43.0918505,-76.3440184,2363 Warners Rd,Van Buren,200000
+"4341 November Ln, Onondaga, New York","4341, November Lane, Town of Onondaga, Marcellus, Onondaga County, New York, 13215, United States",43.0148843125,-76.21555434375,4341 November Ln,Onondaga,128600
+"5019 Kasson Rd, Onondaga, New York","5019, Kasson Road, Wellington Corner, City of Syracuse, Marcellus, Onondaga County, New York, 13215, United States",43.0099585,-76.2696325,5019 Kasson Rd,Onondaga,4000
+"14977 Hickory Grove Dr, New Haven, New York","Hickory Grove Drive, Hickory Grove, Town of New Haven, Oswego County, New York, United States",43.508771,-76.317296,14977 Hickory Grove Dr,New Haven,105000
+"6201 Poolsbrook Rd, Manlius (town), New York","6201, Poolsbrook Road, Town of Manlius, Onondaga County, New York, 13082, United States",43.0710343,-75.9273046,6201 Poolsbrook Rd,Manlius (town),22500
+"4309 Tiger Lily Path, Clay, New York","Tiger Lily Path, Town of Clay, Onondaga County, New York, 13090, United States",43.1581507,-76.2092185,4309 Tiger Lily Path,Clay,76500
+"5880 Brooklyn St, Eaton, New York","5880, Brooklyn Street, Town of Eaton, Madison County, New York, 13334, United States",42.8518018,-75.608771,5880 Brooklyn St,Eaton,3000
+"614 Vine St, Syracuse, New York","614, Vine Street, Lincoln Park, City of Syracuse, Onondaga County, New York, 13203, United States",43.0596858,-76.125462,614 Vine St,Syracuse,1000
+" Bear Swamp Rd, Fenner, New York","Bear Swamp Road, Rowan Corners, Town of Fenner, Lincoln, Madison County, New York, 13037, United States",42.984367,-75.800599, Bear Swamp Rd,Fenner,70000
+"4543 Hollyshire Way, Clay, New York","Hollyshire Way, Town of Clay, Onondaga County, New York, 13041, United States",43.2024673,-76.1991162,4543 Hollyshire Way,Clay,250000
+"31 Artillery Ln, Baldwinsville, New York","31, Artillery Lane, Village of Baldwinsville, Town of Lysander, Onondaga County, New York, 13027, United States",43.1659478,-76.3435301,31 Artillery Ln,Baldwinsville,209500
+" Mcdonald Rd, Elbridge (town), New York","McDonald Road, Town of Elbridge, Onondaga County, New York, 13112, United States",43.090099,-76.425326, Mcdonald Rd,Elbridge (town),25000
+" Stump Rd, Skaneateles (town), New York","Stump Road, Shepard Settlement, Town of Skaneateles, Onondaga County, New York, 13108, United States",42.993648,-76.414972, Stump Rd,Skaneateles (town),475000
+"206 Grace St, Syracuse, New York","206, Grace Street, Near Westside, City of Syracuse, Onondaga County, New York, 13204, United States",43.0382839,-76.1669793,206 Grace St,Syracuse,78
+"7190 Van Buren Rd, Van Buren, New York","7190, Van Buren Road, Town of Van Buren, Onondaga County, New York, 13027, United States",43.1178616,-76.3084406,7190 Van Buren Rd,Van Buren,10000
+"88 Godfrey Rd, Schroeppel, New York","88, Godfrey Road, Pennellville, Town of Schroeppel, Oswego County, New York, 13132, United States",43.2885841,-76.2736807,88 Godfrey Rd,Schroeppel,17981
+"3422 Tall Tree Lane, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3422 Tall Tree Lane,Lysander,497700
+"3437 Tall Tree Lane, Lysander, New York","Tall Tree Lane, Town of Lysander, Onondaga County, New York, 13027, United States",43.1604722,-76.2738393,3437 Tall Tree Lane,Lysander,80000
+"9001 Kennedy Ln, Sullivan, New York","Kennedy Lane, Town of Sullivan, Madison County, New York, 13032, United States",43.157722,-75.822869,9001 Kennedy Ln,Sullivan,28000
+"136 Washington Ave, Sullivan, New York","136, Washington Avenue, Oneida Lake Beach West, Village of Canastota, Madison County, New York, 13032, United States",43.1547485,-75.8507427,136 Washington Ave,Sullivan,19900
+"9 Deerfield Rd., Sullivan, New York","9, Deerfield Road, Village of Canastota, Lenox, Madison County, New York, 13032, United States",43.065671,-75.8084468,9 Deerfield Rd.,Sullivan,18900
+"2024 Teall Ave, Salina, New York","2024, Teall Avenue, Lyncourt, City of Syracuse, Onondaga County, New York, 13206, United States",43.0794441,-76.12320982186579,2024 Teall Ave,Salina,135000
+"3291 Milton Ave, Camillus (town), New York","3291, Milton Avenue, Fairmount, City of Syracuse, Town of Geddes, Onondaga County, New York, 13219, United States",43.0532124,-76.2361273,3291 Milton Ave,Camillus (town),14000
+"5585 Sayles Corners Rd, Moravia (town), New York","5585, Sayles Corners Road, Town of Sempronius, Town of Moravia, Cayuga County, New York, 13118, United States",42.748171,-76.373426342947,5585 Sayles Corners Rd,Moravia (town),30000
+"15933 Irwin Rd, Sterling, New York","15933, Irwin Road, North Sterling, Town of Sterling, Cayuga County, New York, 13156, United States",43.38525506988654,-76.62817858564513,15933 Irwin Rd,Sterling,47000
+"2602 Mckinley Street, Cazenovia (town), New York","2602, McKinley Street, New Woodstock, Town of Cazenovia, Madison County, New York, 13122, United States",42.8476403,-75.8518137,2602 Mckinley Street,Cazenovia (town),1800
+"3125 Cold Springs Rd, Lysander, New York","3125, Cold Springs Road, Town of Lysander, Onondaga County, New York, 13027, United States",43.14883696,-76.29370048,3125 Cold Springs Rd,Lysander,169900
+"6719 Route 31, Cicero, New York","State Route 31, Town of Clay, Onondaga County, New York, 13041, United States",43.174868,-76.134691,6719 Route 31,Cicero,200000
+" Ladue Rd, Sterling, New York","Ladue Road, Town of Sterling, Cayuga County, New York, 13064, United States",43.287929,-76.702898, Ladue Rd,Sterling,20000
+" Salt Rd, Summerhill, New York","Salt Road, Town of Summerhill, Cayuga County, New York, 13093, United States",42.654484,-76.326304, Salt Rd,Summerhill,4000
+" Anthony Rd, Clay, New York","Anthony Road, Town of Clay, Onondaga County, New York, 13029, United States",43.242371,-76.174039, Anthony Rd,Clay,8500
+"4013 Gates Rd, Pompey, New York","4013, Gates Road, Town of Pompey, Onondaga County, New York, 13078, United States",42.9660686,-76.024919,4013 Gates Rd,Pompey,350000
+"8931 Delphi Falls Rd, Pompey, New York","8931, Delphi Falls Road, Delphi Falls, Town of Pompey, Onondaga County, New York, 13122, United States",42.8758223,-75.9117597,8931 Delphi Falls Rd,Pompey,6500
+"127 Genesee St, Wampsville, New York","127, Genesee Street, Village of Canastota, Town of Lenox, Madison County, New York, 13032, United States",43.0748757,-75.7087252,127 Genesee St,Wampsville,64000
