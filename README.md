@@ -1,7 +1,10 @@
 # Micron-s-Influence-on-Syracuse-Property-Market
 Introduction
+
 This project analyzes Micron's impact on Syracuse's real estate prices. By studying prices before and after the announcement of a $20B chip plant, we can evaluate if residential real estate prices in Syracuse can lead to higher prices and cause the possibility of homes becoming unaffordable for low income renters. 
+
 Purpose of Repository
+
 This repository was built to locate the addresses purchased in 2022 from 1/1/2022-12/31/22  and 1/1/2023-3/31/23  in Onondaga County.  The raw data can be retrieved from the Central New York Real Estate Transactions Database. Download as CSV. https://www.syracuse.com/realestate/transactions/ 
 County: Onondaga, Municipality: All municipalities, School district: Leave Empty, Buyer's name: Leave Empty, Property type: Resident (Residential)
 
