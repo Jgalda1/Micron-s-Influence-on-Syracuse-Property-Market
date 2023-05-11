@@ -57,7 +57,7 @@ According to my findings, there are more residential houses being sold in Ononda
 
 
 
-Summary
+Results
 
 The analysis shows that the 2023 map has more red shaded areas within the buffer compared to the 2022 map. Moreover, Syracuse appears yellow in 2022, with surrounding areas also yellow, while in 2023, most of Syracuse is still yellow, but there is red on the outskirts.
 It is important to note that the analysis included all of Onondaga County to allow for comparisons between cities and Syracuse. 
