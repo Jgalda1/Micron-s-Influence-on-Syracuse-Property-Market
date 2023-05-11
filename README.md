@@ -11,26 +11,33 @@ County: Onondaga, Municipality: All municipalities, School district: Leave Empty
 
 
 A.	Input_Data File 
+
 The files used to geocode 2023 and 2022 addresses. 
 
 
-B.	Scripts 
+B. Python Scripts 
 
 There are two scripts built to geocode 2022 and 2023 addresses separately using the files in Input_Data File. Each address represents a sale made. The addresses listed as sold for $0 or $1 were dropped. The column in merged is made to list and match the addresses found in the new data frame.  
 The 2023_Join and 2022_Join scripts are made to drop any repeated addresses that are geolocated around a property and are counted as more than once because it is locating different locations within that property. 
 Sales_Prices_2022_2023 finds the mean of each data frame for 2022 and 2023 and compares them through a boxplot figure.  
 
-C. Output_Data File
+ Output_Data File
 
 Lat_long files are the output for the geocoded addresses. They are then joined with price files to create 2022_Final and 2023_Final files to include variables merges, latitude, longitude, Address, Municipality and Sale price.
 
 2022_Final and 2023_Final CSVs are then inputted in Arc Pro to create two maps.
-ArcGIS Pro
+C. ArcGIS Pro
+
 •	15-mile Buffer (UTM 18N)
+
 •	Digitized Micron Site (UTM 18N)
+
 •	Census Tract Clipping for Onondaga County (UTM 18N) https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
+
 •	Spatial Join (UTM 18N)
+
 •	Symbology: Graduated Colors- Natural Breaks Method
+
 In ArcGIS, I located the precise area where Micron is planned to be situated and digitized a polygon for that region. I chose to use a polygon instead of a point to provide a better understanding of the size and boundaries of the area.
 Next, I decided to use census tracts rather than zip codes to analyze the data because they are larger in size and provide a more detailed overview of the population. I obtained the census data and then clipped it to fit the Onondaga County region. Since the original data contained census tracts from across the states, I further clipped the census tract data to view only the census tracts within Onondaga County. To ensure consistency in the data, I set the projected coordinate system for all data to NAD 1983 UTM Zone 18N because I am working with data in New York.
 After setting up the data, I conducted a spatial join for the buffer on the census tract and added my data containing Sale Price for each residential address made in 2022 and 2023. Upon analyzing the sale prices, I discovered that many of the address points for 2022 were located outside the 15-mile buffer I created from the Micron site. In contrast, the prices for 2023 were concentrated within Onondaga County. The boxplots were made using ArcGIS using Sale Price and Municipality as the X and Y axis. 
