@@ -26,6 +26,7 @@ Sales_Prices_2022_2023 finds the mean of each data frame for 2022 and 2023 and c
 Lat_long files are the output for the geocoded addresses. They are then joined with price files to create 2022_Final and 2023_Final files to include variables merges, latitude, longitude, Address, Municipality and Sale price.
 
 2022_Final and 2023_Final CSVs are then inputted in Arc Pro to create two maps.
+
 C. ArcGIS Pro
 
 •	15-mile Buffer (UTM 18N)
