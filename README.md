@@ -14,7 +14,7 @@ A.	Input_Data File
 The files used to geocode 2023 and 2022 addresses. 
 
 
-B.	Script 
+B.	Scripts 
 
 There are two scripts built to geocode 2022 and 2023 addresses separately using the files in Input_Data File. Each address represents a sale made. The addresses listed as sold for $0 or $1 were dropped. The column in merged is made to list and match the addresses found in the new data frame.  
 The 2023_Join and 2022_Join scripts are made to drop any repeated addresses that are geolocated around a property and are counted as more than once because it is locating different locations within that property. 
