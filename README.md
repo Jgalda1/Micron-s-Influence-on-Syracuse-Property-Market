@@ -1,5 +1,5 @@
-## Microns Influence on Syracuse-Property Market
-#Introduction
+## Microns Influence on Syracuse Property Market
+##Introduction
 
 This project analyzes Micron's impact on Syracuse's real estate prices. By studying prices before and after the announcement of a $20B chip plant, we can evaluate if residential real estate prices in Syracuse can lead to higher prices and cause the possibility of homes becoming unaffordable for low income renters. My hypothesis also implies that there will be workers such as engineers living outside of Syracuse area that will move in to work at Micron. 
 
@@ -10,12 +10,12 @@ County: Onondaga, Municipality: All municipalities, School district: Leave Empty
 
 
 
-#A.	Input_Data File 
+##A.	Input_Data File 
 
 The files used to geocode 2023 and 2022 addresses. 
 
 
-#B. Python Scripts 
+##B. Python Scripts 
 
 There are two scripts built to geocode 2022 and 2023 addresses separately using the files in Input_Data File. Each address represents a sale made. The addresses listed as sold for $0 or $1 were dropped. The column in merged is made to list and match the addresses found in the new data frame.  
 The 2023_Join and 2022_Join scripts are made to drop any repeated addresses that are geolocated around a property and are counted as more than once because it is locating different locations within that property. 
@@ -27,7 +27,7 @@ Lat_long files are the output for the geocoded addresses. They are then joined w
 
 2022_Final and 2023_Final CSVs are then inputted in Arc Pro to create two maps.
 
-#C. ArcGIS Pro
+##C. ArcGIS Pro
 
 Both 2022 and 2023 maps include:
 •	15-mile Buffer (UTM 18N)
