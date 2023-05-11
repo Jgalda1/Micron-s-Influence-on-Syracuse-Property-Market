@@ -1,4 +1,4 @@
-# Micron-s-Influence-on-Syracuse-Property-Market
+## Microns Influence on Syracuse-Property Market
 Introduction
 
 This project analyzes Micron's impact on Syracuse's real estate prices. By studying prices before and after the announcement of a $20B chip plant, we can evaluate if residential real estate prices in Syracuse can lead to higher prices and cause the possibility of homes becoming unaffordable for low income renters. 
