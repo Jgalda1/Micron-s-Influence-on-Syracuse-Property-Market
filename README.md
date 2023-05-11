@@ -53,10 +53,10 @@ Main Findings
 According to my findings, there are more residential houses being sold in Onondaga County and it is likely due to Micron.  
 ![prices](https://github.com/Jgalda1/Micron-s-Influence-on-Syracuse-Property-Market/assets/123008395/f1f9ccc2-e42f-435e-8759-575bd75c717f) 
 Here is a boxplot representing 2023 and 2022 mean sale prices in Onondaga County. 
-Map 2023
+
 <img width="384" alt="Map_2023" src="https://github.com/Jgalda1/Micron-s-Influence-on-Syracuse-Property-Market/assets/123008395/44aa7c73-6f35-4b1f-84ff-11ba32cb3b41">
 
-Map 2022
+
 <img width="376" alt="Map_2022" src="https://github.com/Jgalda1/Micron-s-Influence-on-Syracuse-Property-Market/assets/123008395/29b6523a-5ab0-414a-8a8a-b64f5628c250">
 This map shows more sales took place outside the 15 mile buffer than in the 2023 map. 
 
