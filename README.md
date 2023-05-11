@@ -58,7 +58,8 @@ Here is a boxplot representing 2023 and 2022 mean sale prices in Onondaga County
 
 
 <img width="376" alt="Map_2022" src="https://github.com/Jgalda1/Micron-s-Influence-on-Syracuse-Property-Market/assets/123008395/29b6523a-5ab0-414a-8a8a-b64f5628c250">
-This map shows more sales took place outside the 15 mile buffer than in the 2023 map. 
+
+The maps show more sales took place outside the 15 mile buffer than in the 2023 map. 
 
 Each point on both maps represent a sale of a residential property within that specific year in Onondaga County. The darker the color, the more property sales were made within that census tract.   
 
