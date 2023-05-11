@@ -61,7 +61,7 @@ Results
 
 The analysis shows that the 2023 map has more red shaded areas within the buffer compared to the 2022 map. Moreover, Syracuse appears yellow in 2022, with surrounding areas also yellow, while in 2023, most of Syracuse is still yellow, but there is red on the outskirts.
 It is important to note that the analysis included all of Onondaga County to allow for comparisons between cities and Syracuse. 
-In conclusion, while the results provide some insights into the changes in residential property sales in Onondaga County between 2022 and 2023, further analysis is necessary to gain a more comprehensive understanding of the underlying trends and their potential causes. By conducting additional research on non-residential property prices and other relevant factors, policymakers and researchers can gain a better understanding of how the Micron site may impact the housing market in Syracuse and the surrounding areas.
+In conclusion, while the results provide some insights into the changes in residential property sales in Onondaga County between 2022 and 2023, further analysis is necessary to gain a more comprehensive understanding of the underlying trends and their potential causes. By conducting additional research on non-residential property prices and other relevant factors such as the COVID-19, policymakers and researchers can gain a better understanding of how the Micron site may impact the housing market in and chance of homeownership for renters in Syracuse. 
 
 
 
