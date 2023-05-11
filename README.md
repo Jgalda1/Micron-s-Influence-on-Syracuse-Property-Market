@@ -20,7 +20,7 @@ There are two scripts built to geocode 2022 and 2023 addresses separately using 
 The 2023_Join and 2022_Join scripts are made to drop any repeated addresses that are geolocated around a property and are counted as more than once because it is locating different locations within that property. 
 Sales_Prices_2022_2023 finds the mean of each data frame for 2022 and 2023 and compares them through a boxplot figure.  
 
-C) Output_Data File
+C. Output_Data File
 
 Lat_long files are the output for the geocoded addresses. They are then joined with price files to create 2022_Final and 2023_Final files to include variables merges, latitude, longitude, Address, Municipality and Sale price.
 
