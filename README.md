@@ -30,6 +30,7 @@ Lat_long files are the output for the geocoded addresses. They are then joined w
 C. ArcGIS Pro
 
 Both 2022 and 2023 maps include:
+
 •	15-mile Buffer (UTM 18N)
 
 •	Digitized Micron Site (UTM 18N)
@@ -71,7 +72,8 @@ Sale Prices by Municipality
 Results
 
 It is important to note that the analysis included all of Onondaga County to allow for comparisons between cities and Syracuse. 
-In conclusion, while the results provide some insights into the changes in residential property sales in Onondaga County between 2022 and 2023, further analysis is necessary to gain a more comprehensive understanding of the underlying trends and their potential causes. By conducting additional research on non-residential property prices and other relevant factors such as the COVID-19, policymakers and researchers can gain a better understanding of how the Micron site may impact the housing market in and chance of homeownership for renters in Syracuse. 
+
+In conclusion, while the results provide some insights into the changes in residential property sales in Onondaga County between 2022 and 2023, further analysis is necessary to gain a more comprehensive understanding of change in residential property sales and how much they are influenced by the announcement of Micron. By conducting additional research on non-residential property prices and other relevant factors such as the COVID-19, policymakers and researchers can gain a better understanding of how the Micron site may impact the housing market and chance of homeownership for renters in Syracuse. 
 
 
 
